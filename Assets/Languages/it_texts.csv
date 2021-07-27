@@ -1,0 +1,185 @@
+﻿ConsentTitle,Abbiamo aggiornato i nostri termini
+ConsentMainText,Per continuare a giocare devi confermare di acconsentire ai nostri Termini di Servizio e di aver letto la nostra Informativa sulla Privacy
+ConsentToS,Termini di Servizio
+ConsentPP,Informativa sulla Privacy
+ConsentTitleYes,Vedrai annunci migliori
+ConsentTextYes,Ottimo! Ci auguriamo che troverai i nostri annunci pertinenti e adatti ai tuoi interessi. Se cambi idea, puoi revocare questo consenso abilitando la disattivazione della personalizzazione degli annunci in Impostazioni/Google/Annunci sul tuo dispositivo e iniziare a ricevere annunci casuali.
+ConsentTitleNo,Vedrai annunci casuali
+ConsentTextNo,Non raccoglieremo i tuoi dati per la pubblicità personalizzata in quest'app. Tuttavia, puoi autorizzarci a offrirti annunci selezionati in un'app diversa. In tal caso, raccoglieremo i tuoi dati in quell'altra app e lì ti forniremo un'esperienza pubblicitaria personalizzata. 
+Close,CHIUDI
+Reject,Rifiuta
+Accept,ACCETTA
+Continue,Continua
+Notif0Title,È il momento di...
+Notif0Text,Collega i Tubi!
+Notif1Title,Mi manca il tuo cervello!
+Notif1Text,Riempi i cuori e vieni a giocare!
+Notif2Title,Migliora le tue abilità mentali!
+Notif2Text,Ti va una sfida con i Tubi?
+Notif3Title,Sei abbastanza intelligente?
+Notif3Text,Ti sfido a superare i livelli più difficili!
+USEAST,Stati Uniti Orientali
+CANADA,Canada
+MEXICO,Messico
+BRAZIL,Brasile
+UK,Regno Unito
+GERMANY,Germania
+FRANCE,Francia
+SPAIN,Spagna
+ITALY,Italia
+GREECE,Grecia
+TURKEY,Turchia
+EGYPT,Egitto
+SAUDI,Arabia Saudita
+KENYA,Kenia
+IRAN,Iran
+INDIA,India
+THAILAND,Tailandia
+SINGAPORE,Singapore
+AUSTRALIA,Australia
+NEWZEALAND,Nuova Zelanda
+TAIWAN,Taiwan
+CHINA,Cina
+KOREA,Korea
+JAPAN,Giappone
+RUSSIA,Russia
+USWEST,Stati Uniti Occidentali
+DailyQuests,Missioni Giornaliere
+Reward,Ricompensa
+Coins,12 Minuti
+InfiniteHearts,12 Ore di Cuori Infiniti
+InfiniteMoves,12 Mosse Infinite
+Hints,12 Suggerimenti
+Easy,Facile
+Medium,Medio
+Hard,Difficile
+Claimed,Reclamato!
+Date,Venerdì 26 marzo
+Saturday,Sabato
+Sunday,Domenica
+Monday,Lunedì
+Tuesday,Martedì
+Wednesday,Mercoledì
+Thursday,Giovedì
+Friday,Venerdì
+January,Gennaio
+February,Febbraio
+March,Marzo
+April,Aprile
+May,Maggio
+June,Giugno
+July,Luglio
+August,Agosto
+September,Settembre
+October,Ottobre
+November,Novembre
+December,Dicembre
+Q_RotateTiles,Ruota 100 tessere
+Q_FinishLevels,Vinci 100 livelli
+Q_EarnCoins,Guadagna 100 monete
+Q_EarnInfiniteHearts,Guadagna 100 minuti di Cuori Infiniti
+Q_EarnHints,Guadagna 100 suggerimenti
+Q_EarnInfiniteMove,Guadagna 100 mosse infinite
+Q_WinLevelsContinuously,Vinci 100 livelli di seguito senza perdere
+Q_EarnCards,Guadagna 100 carte nella Collezione
+Q_EarnStars,Guadagna 100 Stelle
+Q_UsePowerUps,Usa 100 Suggerimenti o Mosse Infinite
+Q_WinWithoutUndo,Vinci 100 Livelli senza usare il pulsante Annulla
+Q_FillWells,Riempi 100 Pozzi
+Q_GrowPlants,Fai crescere 100 piante
+Q_WinWith3Stars,Vinci 100 Livelle con 3 Stelle
+Q_FillPipes,Riempi 100 Tubi
+Q_OpenChests,Apri 100 Scrigni
+Q_OpenStarChest,Apri 100 Scrigni Stella
+Q_OpenLevelChest,Apri 100 Livelli Scrigno
+Q_ReachSpecificLevel,Raggiungi il Livello 100
+Q_PlayLevelsForSomeSeconds,Gioca i livelli per 100 minuti in totale
+Q_EarnScore,Guadagna un totale di 100 con il tuo punteggio
+Q_PlayLevelsForSomeSecondsContinuously,Gioca i livelli per 100 minuti senza chiudere il gioco
+TapOnAllShapes,Tocca su tutte le forme!
+Awesome,Incredibile!
+Claim,Reclama
+Collection,Collezione
+FinishLevelX,Termina il Livello 12
+Settings,Impostazioni
+Sounds,Suoni
+Music,Musica
+Vibration,Vibrazione
+Achievements,Obiettivi
+Full,Pieno
+Store,Negozio
+NoAds,Paga $12 per rimuovere gli annunci dal gioco
+RestorePurchases,Ripristina Acquisti
+XHours,12 Ore
+Beginner,Pacchetto Principianti
+Super,Pacchetto Super
+Mega,Pacchetto Mega
+Giant,Pacchetto Gigante
+Champion,Pacchetto Campione
+Legendary,Pacchetto Leggendario
+Sale,Sconto
+MostPopular,Più popolare
+BestValue,Miglior Valore
+LevelX,Livello 12
+Share,Condividi
+OutOfMoves,Mosse Finite
+GetXMoves,Ottieni 5 Mosse per continuare
+VideoAd,Video
+PlayOn,Gioca su
+LevelFailed,Livello Fallito!
+TryAgain,Riprova
+NoAdsTitle,Annunci
+NoAdsButton,Senza Annunci
+FTUE_Rotate,Tocca i tubi per ruotarli!
+FTUE_AllPipes,Devi usare tutti i Tubi!
+FTUE_WaterToPlants,Innaffia tutte le piante con il numero di mosse che hai!
+FTUE_Undo,Puoi sempre annullare la tua ultima mossa!
+FTUE_Hint,Puoi usare il Suggerimento per risolvere una parte del livello!
+FTUE_IM,Puoi rendere le tue mosse infinite!
+FTUE_Card,Hai raccolto una Carta!
+FTUE_Collection1,Puoi sempre vedere le tue Carte nella tua Collezione!
+FTUE_Store,Puoi trovarne altre nel Negozio!
+FTUE_Collection2,Benvenuto nella tua Collezione! Puoi toccare qualsiasi carta per vederla!
+FTUE_Quests,Completa varie missioni e ottieni varie ricompense!
+FTUE_Quest24,Nuove Missioni tra 24 ore!
+TapShowBoard,Tocca qui per vedere la tabella!
+TapToReturn,Tocca per tornare indietro!
+TapToSkip,Tocca per saltare!
+AreYouSure,Sei sicuro?
+YouLoseHeart,Perderai 1 Vita!
+YouWontLoseHeart,Non perderai 1 Vita!
+Quit,Esci
+ShareMessage,Sto diventando più intelligente con Pipes 😍! Scaricalo da:
+Enter,Entra
+SelectChapter,Seleziona Capitolo
+FTUE_Chapters,Puoi passare tra vari capitolo qui!
+LevelsXY,Livelli 1-20
+Buy,Acquista
+Refill,Ricarica
+Get3Hints,Ottieni 3 Suggerimenti!
+Get3IMs,Ottieni 3 Mosse Infinite!
+GetFullHearts,Ricarica le tue Vite di 5!
+MoreOffers,Altre Offerte!
+LockersExplain,Sblocca al livello 2
+Rating,Pipes è stato realizzato da un team di 2 sviluppatori appassionati! Concludi il lavoro effettuato valutando il nostro gioco qui. Grazie! <3
+FTUE_Rotate2,Tocca per ruotare!
+FTUE_AllPipes2,Usa tutti i Tubi!
+FTUE_WaterToPlants2,Hai mosse limitate!
+FTUE_Undo2,Tocca per annullare!
+FTUE_Hint2,Tocca per usare il suggerimento!
+FTUE_IM2,Tocca per usare una mossa infinita!
+FTUE_Card2,Carta raccolta!
+FTUE_Collection1_2,Tocca per vedere la collezione!
+FTUE_Store2,Trova altro nello Store!
+FTUE_Collection2_2,Tocca sulle carte per vederle!
+FTUE_Quests2,Completa le missioni e ottieni ricompense!
+FTUE_Quest24_2,Nuove Missioni ogni 24 ore!
+FTUE_Chapters_2,Tocca per selezionare il capitolo!
+ChooseTwoGifts,Scegli 2 Regali!
+TwoMoreGifts,Altri 2 Regali!
+OutOfHearts,Vite terminate!
+TimeToNextHeart,Tempo per la prossima Vita.
+RefillHearts,Riempi Vite
+RateUs,Valutaci
+LoadCloudData,Caricare l'ultimo livello salvato?
+Retry,Riprova

@@ -1,0 +1,185 @@
+﻿ConsentTitle,Chúng tôi đã cập nhật các điều khoản và điều kiện
+ConsentMainText,Để tiếp tục chơi, bạn cần xác nhận rằng bạn đồng ý với Điều khoản dịch vụ của chúng tôi và đã đọc qua Chính sách bảo mật
+ConsentToS,Điều khoản dịch vụ
+ConsentPP,Chính sach bảo mật
+ConsentTitleYes,Bạn sẽ xem những quảng cáo tốt hơn
+ConsentTextYes,Tuyệt vời! Chúng tôi hy vọng các quảng cáo của chúng tôi phù hợp và tương quan với những mối quan tâm của bạn. Nếu đổi ý, bạn có thể rút lại sự đồng thuận bằng cách tắt Cá nhân hóa nội dung quảng cáo từ Cài đặt/Quảng cáo Google trên thiết bị của mình và bắt đầu nhận những quảng cáo ngẫu nhiên.
+ConsentTitleNo,Bạn sẽ xem những quảng cáo ngẫu nhiên
+ConsentTextNo,Chúng tôi sẽ không thu thập dữ liệu của bạn để đưa ra quảng cáo mang tính cá nhân hóa trong ứng dụng này. Tuy nhiên, bạn có thể cấp quyền cho chúng tôi mang đến cho bạn những quảng cáo được lựa chọn kỹ càng và chu đáo từ một ứng dụng khác. Trong trường hợp này, chúng tôi sẽ thu thập dữ liệu của bạn trong ứng dụng đó và mang đến cho bạn những quảng cáo có tính cá nhân tại đay.
+Close,ĐÓNG
+Reject,Từ chối
+Accept,CHẤP NHẬN
+Continue,Tiếp tục
+Notif0Title,Đã đến lúc...
+Notif0Text,Nối Ống!
+Notif1Title,Não của bạn nhớ tôi lắm!
+Notif1Text,Nạp đấy trái tim và chơi nào!
+Notif2Title,Tăng kỹ năng trí não!
+Notif2Text,Bạn đã sẵn sàng cho những thử thách Ống Nối chưa?
+Notif3Title,Bạn đủ thông minh chứ?
+Notif3Text,Tôi thách bạn hoàn thành những màn khó nhất đấy!
+USEAST,Miền Đông nước Mỹ
+CANADA,Canada
+MEXICO,Mexico
+BRAZIL,Brazil
+UK,Vương quốc Anh
+GERMANY,Đức
+FRANCE,Pháp
+SPAIN,Tây Ban Nha
+ITALY,Ý
+GREECE,Hy Lạp
+TURKEY,Thổ Nhĩ Kỳ
+EGYPT,Ai Cập
+SAUDI,Ả Rập Saudi
+KENYA,Kenya
+IRAN,Iran
+INDIA,Ấn Độ
+THAILAND,Thái Lan
+SINGAPORE,Singapore
+AUSTRALIA,Úc
+NEWZEALAND,New Zealand
+TAIWAN,Đài Loan
+CHINA,Trung Quốc
+KOREA,Hàn Quốc
+JAPAN,Nhật Bản
+RUSSIA,Nga
+USWEST,Miền Tây Nước Mỹ
+DailyQuests,Thử Thách Hằng Ngày
+Reward,Thưởng
+Coins,12 Xu
+InfiniteHearts,12 Giờ Trái Tim Bất Tận
+InfiniteMoves,12 Nước Đi Bất Tận
+Hints,12 Gợi ý
+Easy,Dễ
+Medium,Vừa
+Hard,Khó
+Claimed,Đã nhận!
+Date,"Thứ Sáu, 26 tháng Ba"
+Saturday,Thứ Bảy
+Sunday,Chủ Nhật
+Monday,Thứ Hai
+Tuesday,Thứ Ba
+Wednesday,Thứ Tư
+Thursday,Thứ Năm
+Friday,Thứ Sáu
+January,Tháng Một
+February,Tháng Hai
+March,Tháng Ba
+April,Tháng Tư
+May,Tháng Năm
+June,Tháng Sáu
+July,Tháng Bảy
+August,Tháng Tám
+September,Tháng Chín
+October,Tháng Mười
+November,Tháng Mười Một
+December,Tháng Mười Hai
+Q_RotateTiles,Xoay 100 đá
+Q_FinishLevels,Thắng 100 màn
+Q_EarnCoins,Nhận 100 xu
+Q_EarnInfiniteHearts,Nhận 100 phút Trái tim vô tận
+Q_EarnHints,Nhận 100 gợi ý
+Q_EarnInfiniteMove,Nhận 100 Nước đi vô tận
+Q_WinLevelsContinuously,Thắng 100 màn bất bại
+Q_EarnCards,Nhận 100 thẻ trong Bộ sưu tập
+Q_EarnStars,Nhận 100 sao
+Q_UsePowerUps,Dùng 100 gợi ý hoặc Nước đi vô tận
+Q_WinWithoutUndo,Thắng 100 màn không dùng nút Undo
+Q_FillWells,Đổ đầy 100 giếng
+Q_GrowPlants,Trồng 100 cây
+Q_WinWith3Stars,Thắng 100 màn 3 sao
+Q_FillPipes,Đổ đầy 100 ống
+Q_OpenChests,Mở 100 rương
+Q_OpenStarChest,Mở 100 rương ngôi sao
+Q_OpenLevelChest,Mở 100 rương màn
+Q_ReachSpecificLevel,Đạt màn 100
+Q_PlayLevelsForSomeSeconds,Chơi tổng cộng 100 phút
+Q_EarnScore,Nhận tổng cộng 100 điểm
+Q_PlayLevelsForSomeSecondsContinuously,Chơi 100 phút mà không thoát game
+TapOnAllShapes,Nhấn tất cả các hình dạng!
+Awesome,Tuyệt vời!
+Claim,Nhận
+Collection,Bộ sưu tập
+FinishLevelX,Hoàn thành Màn 12
+Settings,Cài đặt
+Sounds,Âm thanh
+Music,Nhạc
+Vibration,Rung
+Achievements,Thành quả
+Full,Đầy
+Store,Cửa hàng
+NoAds,Trả 12 USD để gỡ quảng cáo khỏi trò chơi
+RestorePurchases,Khôi phục mua
+XHours,12 Giờ
+Beginner,Gói cho Người mới bắt đầu
+Super,Gói Cao cấp
+Mega,Gói Mega
+Giant,Gói Siêu khủng
+Champion,Gói Chiến thắng
+Legendary,Gói Huyền thoại
+Sale,Ưu đãi
+MostPopular,Phổ biến nhất
+BestValue,Giá tốt nhất
+LevelX,Màn 12
+Share,Chia sẻ
+OutOfMoves,Hết nước đi
+GetXMoves,Nhận 5 nước đi để tiếp tục
+VideoAd,Video
+PlayOn,Chơi
+LevelFailed,Thất bại!
+TryAgain,Thử lại
+NoAdsTitle,QUẢNG CÁO
+NoAdsButton,KHÔNG QUẢNG CÁO
+FTUE_Rotate,Nhấn ống để xoay!
+FTUE_AllPipes,Bạn phải dùng tất cả các Ống!
+FTUE_WaterToPlants,Tưới tất cả cây với số nước đi bạn có!
+FTUE_Undo,Bạn luôn luôn có thể hoàn tác nước đi vừa xong!
+FTUE_Hint,Bạn có thể dùng Gợi ý để giải một phần của màn chơi!
+FTUE_IM,Bạn có thể dùng Nước đi vô tận!
+FTUE_Card,Bạn đã thu thập một Thẻ!
+FTUE_Collection1,Bạn luôn luôn có thể xem Thẻ trong Bộ sưu tập của mình!
+FTUE_Store,Bạn có thể xem thêm ở Cửa hàng!
+FTUE_Collection2,Chào mừng bạn đến với Bộ sưu tập! Bạn có thể nhấn bất kỳ đâu trên thẻ để xem!
+FTUE_Quests,Hoàn thành các thử thách khác nhau và nhận những phần thưởng!
+FTUE_Quest24,Thử thách có tại đây mỗi 24 giờ!
+TapShowBoard,Chạm vào đây để xem bảng điều khiển!
+TapToReturn,Chạm để quay lại!
+TapToSkip,Chạm để bỏ qua!
+AreYouSure,Bạn chắc chắn chứ?
+YouLoseHeart,Bạn sẽ mất một Trái tim đấy!
+YouWontLoseHeart, Bạn sẽ không mất một Trái tim nào!
+Quit,Thoát
+ShareMessage,Tôi ngày càng thông minh hơn với Pipes 😍! Tảỉ xuống từ đây:
+Enter,Tiến vào
+SelectChapter,Chọn Đề tài
+FTUE_Chapters,Bạn có thể chuyển đổi các đề tài ở đây!
+LevelsXY,Cấp độ 1-20
+Buy,Mua
+Refill,Nạp đầy
+Get3Hints,Giành được 3 Gợi ý!
+Get3IMs,Giành được 3 bước di chuyển không giới hạn!
+GetFullHearts,Nạp đầy Trái tim của bạn lên mức 5!
+MoreOffers,Thêm nhiều ưu đãi!
+LockersExplain,Mở khóa tại màn 2
+Rating,Trò chơi Ống Nước do nhóm 2 lập trình viên đầy nhiệt huyết phát triển! Hãy tưởng thưởng cho thành tích này khi đánh giá trò chơi của chúng tôi. Cảm ơn nhiều! <3
+FTUE_Rotate2,Chạm để xoay!
+FTUE_AllPipes2,Dùng tất cả Ống Nước!
+FTUE_WaterToPlants2,Bạn có số lượt đi không giới hạn!
+FTUE_Undo2,Chạm để hoàn tác!
+FTUE_Hint2,Chạm để dùng gợi ý!
+FTUE_IM2,Chạm để dùng một bước đi không giới hạn!
+FTUE_Card2,Đã thu thập thẻ!
+FTUE_Collection1_2,Chạm để xem bộ sưu tập!
+FTUE_Store2,Xem thêm ở Cửa Hàng!
+FTUE_Collection2_2,Chạm thẻ để xem!
+FTUE_Quests2,Hoàn thành thử thách để nhận thưởng!
+FTUE_Quest24_2,Thử thách mới sau 24 tiếng!
+FTUE_Chapters_2,Chạm để chọn chương!
+ChooseTwoGifts,Chọn 2 Món Quà!
+TwoMoreGifts,2 Quà Nữa!
+OutOfHearts,Hết Tim!
+TimeToNextHeart,Tim tiếp theo sau:
+RefillHearts,Làm đầy Trái Tim
+RateUs,Đánh giá chúng tôi
+LoadCloudData,Tải màn chơi lưu lần trước?
+Retry,Thử lại

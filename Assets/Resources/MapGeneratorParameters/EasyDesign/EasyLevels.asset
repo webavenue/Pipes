@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a4ecb7063f1460fb27e215a533035e, type: 3}
+  m_Name: EasyLevels
+  m_EditorClassIdentifier: 
+  id: 0
+  hexGeneratorParameters: {fileID: 11400000, guid: 2643835c61b1e90408a20492af44ff1d,
+    type: 2}
+  tetraGeneratorParameters: {fileID: 11400000, guid: 66e07eaff2e8658439ac5d3140d471bd,
+    type: 2}
+  hexToTetraPreferrence: 0.5
+  seedsPerLevel: 10

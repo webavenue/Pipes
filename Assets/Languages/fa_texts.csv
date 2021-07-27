@@ -1,0 +1,185 @@
+﻿ConsentTitle,قوانین ما به روز شده است 
+ConsentMainText,برای ادامه بازی ، باید تأیید کنید که با شرایط خدمات ما موافقت کرده اید و خط مشی رازداری ما را خوانده اید. 
+ConsentToS,شرایط استفاده از خدمات 
+ConsentPP,سیاست حفظ حریم خصوصی 
+ConsentTitleYes,شما تبلیغات بهتری را خواهید دید 
+ConsentTextYes,عالی! امیدواریم تبلیغات ما را متناسب با علایق خود بیابید. اگر نظر خود را تغییر دادید، می‌توانید از شخصی سازی تبلیغات انصراف دهید و تبلیغات تصادفی ببینید! 
+ConsentTitleNo,شما تبلیغات تصادفی خواهید دید 
+ConsentTextNo,داده های شما برای تبلیغات جمع آوری نمی شود. اما می توانید اجازه دهید تا در دیگر برنامه ها تبلیغات شما شخصی سازی شود 
+Close,خروج 
+Reject,رد کردن 
+Accept,می پذیرم 
+Continue,ادامه 
+Notif0Title,وقتشه که... 
+Notif0Text,لوله‌ها رو به هم وصل کنی! 
+Notif1Title,مغزت بهم نیاز داره! 
+Notif1Text,قلب‌هاتو پر کن و بیا بازی کن! 
+Notif2Title,توانایی‌های ذهنیت رو بهبود بده! 
+Notif2Text,آیا برای یه چالش جدید تو پایپز آماده‌ای؟ 
+Notif3Title,آیا به اندازه‌ی کافی باهوش هستی؟ 
+Notif3Text,تو رو به چالش می‌کنم که سخت‌ترین لول‌ها رو تموم کنی! 
+USEAST,آمریکای شرقی 
+CANADA,کانادا 
+MEXICO,مکزیک 
+BRAZIL,برزیل 
+UK,بریتانیا 
+GERMANY,آلمان 
+FRANCE,فرانسه 
+SPAIN,اسپانیا 
+ITALY,ایتالیا 
+GREECE,یونان 
+TURKEY,ترکیه 
+EGYPT,مصر 
+SAUDI,عربستان سعودی 
+KENYA,کنیا 
+IRAN,ایران 
+INDIA,هند 
+THAILAND,تایلند 
+SINGAPORE,سنگاپور 
+AUSTRALIA,استرالیا 
+NEWZEALAND,زلاند نو 
+TAIWAN,تایوان 
+CHINA,چین 
+KOREA,کره 
+JAPAN,ژاپن 
+RUSSIA,روسیه 
+USWEST,آمریکای غربی 
+DailyQuests,چالش های روزانه 
+Reward,جایزه 
+Coins,۱۲ سکه 
+InfiniteHearts,۱۲ ساعت قلب بی نهایت 
+InfiniteMoves,۱۲ حرکت بی نهایت 
+Hints,۱۲ راهنما 
+Easy,آسان 
+Medium,متوسط 
+Hard,سخت 
+Claimed,دریافت شده 
+Date,جمعه ۲۶ مارس 
+Saturday,شنبه 
+Sunday,یکشنبه 
+Monday,دوشنبه 
+Tuesday,سه شنبه 
+Wednesday,چهارشنبه 
+Thursday,پنچ شنبه 
+Friday,جمعه 
+January,ژانویه 
+February,فوریه 
+March,مارس 
+April,آوریل 
+May,می 
+June,ژوئن 
+July,جولای 
+August,آگوست 
+September,سپتامبر 
+October,اکتبر 
+November,نوامبر 
+December,دسامبر 
+Q_RotateTiles,۱۰۰ کاشی رو بچرخون! 
+Q_FinishLevels,۱۰۰ مرحله رو رد کن! 
+Q_EarnCoins,۱۰۰ سکه به دست بیار! 
+Q_EarnInfiniteHearts,۱۰۰ دقیقه قلب بی نهایت به دست بیار! 
+Q_EarnHints,۱۰۰ راهنما به دست بیار! 
+Q_EarnInfiniteMove,۱۰۰ حرکت بی نهایت به دست بیار! 
+Q_WinLevelsContinuously,۱۰۰ مرحله رو بدون باخت رد کن! 
+Q_EarnCards,۱۰۰ کارت در کالکشن به دست بیار! 
+Q_EarnStars,۱۰۰ ستاره به دست بیار! 
+Q_UsePowerUps,۱۰۰ راهنما یا حرکت بی نهایت استفاده کن! 
+Q_WinWithoutUndo,۱۰۰ مرحله رو بدون استفاده از دکمه بازگشت رد کن! 
+Q_FillWells,۱۰۰ تا چاه رو پر کن! 
+Q_GrowPlants,۱۰۰ گیاه رشد بده! 
+Q_WinWith3Stars,۱۰۰ مرحله رو با ۳ ستاره رد کن! 
+Q_FillPipes,۱۰۰ تا لوله رو پر کن! 
+Q_OpenChests,۱۰۰ تا صندوق باز کن! 
+Q_OpenStarChest,۱۰۰ تا صندوق ستاره باز کن! 
+Q_OpenLevelChest,۱۰۰ تا صندوق مرحله باز کن! 
+Q_ReachSpecificLevel,به مرحله ۱۰۰ برس 
+Q_PlayLevelsForSomeSeconds,مجموعن ۱۰۰ دقیقه در مراحل بازی کن! 
+Q_EarnScore,با امتیازاتت مجموع ۱۰۰ امتیاز به دست بیار! 
+Q_PlayLevelsForSomeSecondsContinuously,مجموعن ۱۰۰ دقیقه در مراحل بازی کن بدون اینکه بازی رو ببندی! 
+TapOnAllShapes,روی همه شکل ها بزن! 
+Awesome,عالی بود! 
+Claim,دریافت 
+Collection,کلکسیون 
+FinishLevelX,مرحله ۱۲ رو تموم کن! 
+Settings,تنظیمات 
+Sounds,صدا 
+Music,موسیقی 
+Vibration,ویبره 
+Achievements,دستاوردها 
+Full,پر 
+Store,فروشگاه 
+NoAds,12$ پرداخت کن تا تبلیغات از بازی حذف بشه! 
+RestorePurchases,برگرداندن خریدها 
+XHours,۱۲ ساعت 
+Beginner,بسته آغازین 
+Super,بسته ویژه 
+Mega,بسته خفن 
+Giant,بسته غول پیکر 
+Champion,بسته قهرمانان 
+Legendary,بسته افسانه ای 
+Sale,حراج 
+MostPopular,پرطرفدارترین 
+BestValue,بیشترین ارزش 
+LevelX,مرحله ۱۲ 
+Share,ارسال 
+OutOfMoves,حرکت ها به پایان رسید 
+GetXMoves,۵ حرکت بگیر تا به بازی ادامه بدی 
+VideoAd,ویدیو 
+PlayOn,ادامه بده! 
+LevelFailed,باختی! 
+TryAgain,دوباره تلاش کن! 
+NoAdsTitle,تبلیغات 
+NoAdsButton,حذف تبلیغات 
+FTUE_Rotate,روی لوله ها بزن تا بچرخن! 
+FTUE_AllPipes,باید از همه لوله ها استفاده کنی! 
+FTUE_WaterToPlants,همه گیاه ها رو با استفاده از حرکت هایی که داری آبیاری کن! 
+FTUE_Undo,همیشه می تونی آخرین حرکتت رو برگردونی! 
+FTUE_Hint,می تونی از راهنما برای حل کردن بخشی از مرحله استفاده کنی! 
+FTUE_IM,می تونی حرکت هات رو بی نهایت کنی! 
+FTUE_Card,یه کارت به دست آوردی! 
+FTUE_Collection1,همیشه می تونی کارت هات رو در کلکسیونت ببینی! 
+FTUE_Store,اگه تعداد بیشتری میخوای میتونی توی فروشگاه پیدا کنی! 
+FTUE_Collection2,به کلکسیون خوش اومدی! برای مشاهده هر کدوم از کارت هات میتونی روشون بزنی! 
+FTUE_Quests,چالش های مختلفی رو انجام بده و جوایز متنوعی بگیر! 
+FTUE_Quest24,هر ۲۴ ساعت چالش های جدیدی برات تولید میشه! 
+TapShowBoard,برای دیدن صفحه بازی اینجا رو لمس کن 
+TapToReturn,برای بازگشت اینجا رو لمس کن 
+TapToSkip,برای گذروندن اینجا رو لمس کن 
+AreYouSure,مطمئنی؟ 
+YouLoseHeart,یک قلب از دست میدی 
+YouWontLoseHeart,قلبی از دست نمیدی 
+Quit,خروج 
+ShareMessage,با پایپز دارم باهوش تر میشم! دانلود از: 
+Enter,ورود 
+SelectChapter,انتخاب فصل 
+FTUE_Chapters,اینجا میتونی بین فصل ها جا به جا شی 
+LevelsXY,مرحله ۱-۲۰ 
+Buy,خرید 
+Refill,پر کردن 
+Get3Hints,۳ تا راهنما بگیر 
+Get3IMs,۳ تا حرکت بی نهایت بگیر 
+GetFullHearts,قلب هاتو تا ۵تا پر کن 
+MoreOffers,پیشنهادهای بیشتر 
+LockersExplain,تو مرحله 2 باز میشه 
+Rating,پایپز توسط تیمی متشکل از دو توسعه دهنده سخت کوش ساخته شده. با امتیازدهی به بازی ما به هر چه بهتر شدن اون کمک کنین. از شما ممنونیم! 
+FTUE_Rotate2,برای چرخوندن لمس کن  
+FTUE_AllPipes2,از همه لوله ها استفاده کن 
+FTUE_WaterToPlants2,تعداد حرکاتت محدوده 
+FTUE_Undo2,برای برگردوندن لمس کن  
+FTUE_Hint2,برای استفاده از یک راهنما لمس کن  
+FTUE_IM2,برای استفاده از یک حرکت بینهایت لمس کن  
+FTUE_Card2,کارت به دست اومد  
+FTUE_Collection1_2,برای دیدن مجموعه لمس کن  
+FTUE_Store2,تو فروشگاه چیزای بیشتری پیدا کن  
+FTUE_Collection2_2,برای دیدن کارت ها روشون بزن 
+FTUE_Quests2,مأموریت ها رو انجام بده و جایزه بگیر 
+FTUE_Quest24_2,مأموریت های جدید در هر ۲۴ ساعت 
+FTUE_Chapters_2,برای انتخاب فصل لمس کن  
+ChooseTwoGifts,۲ هدیه انتخاب کن  
+TwoMoreGifts,۲ هدیه بیشتر 
+OutOfHearts,قلب ها تمام شده اند 
+TimeToNextHeart,زمان باقی مانده تا قلب بعدی: 
+RefillHearts,پر کردن قلب ها 
+RateUs,امتیازدهی به ما 
+LoadCloudData,آخرین ذخیره بارگذاری شود؟ 
+Retry,تلاش مجدد 

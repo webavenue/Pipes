@@ -1,0 +1,11 @@
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="androidx.legacy:legacy-support-v4:1.0.0+">
+      <androidSdkPackageIds>
+        <androidSdkPackageId>extra-android-m2repository</androidSdkPackageId>
+      </androidSdkPackageIds>
+    </androidPackage>
+    
+    <androidPackage spec="me.leolin:ShortcutBadger:1.1.22+" />
+  </androidPackages>
+</dependencies>

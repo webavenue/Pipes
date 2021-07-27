@@ -1,0 +1,31 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+    defaultConfig {
+        minSdkVersion 16
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+    productFlavors {
+    }
+}
+
+task deploy(type: Copy, dependsOn: 'assembleRelease') {
+    from 'build/outputs/aar/utnotifications-release.aar'
+    into '../../../../../Plugins/Android/'
+    rename {
+        fileName -> 'utnotifications.aar'
+    }
+}
+
+dependencies {
+    compileOnly 'me.leolin:ShortcutBadger:1.1.22@aar'
+    compileOnly 'androidx.legacy:legacy-support-v4:1.0.0'
+    compileOnly 'com.google.firebase:firebase-messaging:20.0.0'
+    compileOnly fileTree(dir: 'libs-provided', include: ['*.jar'])
+}

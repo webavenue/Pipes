@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52a42e6753cc45dba3fd8c84970fa00, type: 3}
+  m_Name: Chapter25_931To955
+  m_EditorClassIdentifier: 
+  generatorParametersID: 0
+  rangeFrom: 931
+  rangeTo: 955
+  data: 5e24000068240000732400007f24000089240000902400009c240000a4240000ae240000be240000c4240000cf240000d6240000e3240000eb240000f52400000025000009250000132500001c25000026250000352500003c2500004a2500004f250000

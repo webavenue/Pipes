@@ -1,0 +1,430 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5402739919299833852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5402739919299833855}
+  - component: {fileID: 5402739919299833854}
+  - component: {fileID: 1131201723753402950}
+  - component: {fileID: 5673572225156475830}
+  - component: {fileID: 8189110894920910852}
+  - component: {fileID: 5643849859220660748}
+  - component: {fileID: 6308411009780554691}
+  - component: {fileID: 3930851334423708194}
+  - component: {fileID: 4958558426934919430}
+  - component: {fileID: 4493033147349978141}
+  - component: {fileID: 1683538239562114745}
+  - component: {fileID: 7700106635998479426}
+  - component: {fileID: 1135314866910857554}
+  - component: {fileID: 5373694620696342903}
+  - component: {fileID: 136306352691962234}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5402739919299833855
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5402739919299833854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0b78450821b91f41b8787530efaeb4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  languageTester: 
+  EnglishDictionaryCsv: {fileID: 4900000, guid: 8d4d3dbb856a92f459d53a96c08e74f9,
+    type: 3}
+  ArabicDictionaryCsv: {fileID: 4900000, guid: ce3889f8c2a315546adfe8463305ba3a, type: 3}
+  FarsiDictionaryCsv: {fileID: 4900000, guid: 669a4216384cf504eb55a8d7bf1354e9, type: 3}
+  ChineseDictionaryCsv: {fileID: 4900000, guid: 4dc08c71dad2829459863e7a286a75be,
+    type: 3}
+  DanishDictionaryCsv: {fileID: 4900000, guid: 36576988961ce7441811918c7eb46aa3, type: 3}
+  DutchDictionaryCsv: {fileID: 4900000, guid: 237270e9a0037cc46bf2b6ba723ab63d, type: 3}
+  FinnishDictionaryCsv: {fileID: 4900000, guid: 7a15680675287de4a9eca122ce012629,
+    type: 3}
+  FrenchDictionaryCsv: {fileID: 4900000, guid: ff61b0fd427a7fb40ae7b32dbd79be4f, type: 3}
+  GermanDictionaryCsv: {fileID: 4900000, guid: 463909bae29eab94f9d7e4038c863a99, type: 3}
+  HindiDictionaryCsv: {fileID: 4900000, guid: 4afccc1a6310c55478c4c5f0cacb5841, type: 3}
+  IndonesianDictionaryCsv: {fileID: 4900000, guid: a0c928e4d9908b140a93b64bc0f96781,
+    type: 3}
+  ItalianDictionaryCsv: {fileID: 4900000, guid: 9d11184e1154e69409e16a7c215a62f6,
+    type: 3}
+  JapaneseDictionaryCsv: {fileID: 4900000, guid: 1b39a4f55913a064781466f41acbf8a0,
+    type: 3}
+  KoreanDictionaryCsv: {fileID: 4900000, guid: 1918ea26bca20c841bc4a527de8551e2, type: 3}
+  PortugueseDictionaryCsv: {fileID: 4900000, guid: 0c974d83c791b404fa0ce09ddedf43c8,
+    type: 3}
+  PortugueseBRDictionaryCsv: {fileID: 4900000, guid: 376181bf287183e4db1a1cfcbc0d2672,
+    type: 3}
+  RussianeDictionaryCsv: {fileID: 4900000, guid: 77b27793022f98b42a7082c289260386,
+    type: 3}
+  SpanishDictionaryCsv: {fileID: 4900000, guid: 9266a6830bd6baa408c3c0f03b072138,
+    type: 3}
+  TurkishDictionaryCsv: {fileID: 4900000, guid: 76d6bff1900aba9469e0deebbaddc59f,
+    type: 3}
+  ThaiDictionaryCsv: {fileID: 4900000, guid: 41023cc46a33f6e458b9e7ae30a40555, type: 3}
+  VietnameseDictionaryCsv: {fileID: 4900000, guid: 8bfbb172a1f12d846874e6bb3ef973a4,
+    type: 3}
+--- !u!114 &1131201723753402950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11e3c050b29d4a2469dfe8896adcc634, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GAPrefab: {fileID: 165288, guid: a9d27d37bab3c447b8eb7a2a6756e952, type: 3}
+  FirebaseIsInit: 0
+--- !u!114 &5673572225156475830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bee801981f2c7e4999ce02d6aaffac9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numOfIMItem_init: 2
+  numOfHint_init: 2
+  starChestCapacity_init: 20
+  coins_init: 200
+  hearts_init: 5
+  buyFullHeartsPrice: 100
+  maxSeenLevelNum: 0
+  isMusicEnabled: 0
+  isSoundEnabled: 0
+  isHapticEnabled: 0
+  userConsent_IsGiven: 0
+  userConsent: 0
+  userHasBoughtNoAds: 0
+  hearts: 0
+  coins: 0
+  isInfiniteHeart: 0
+  infiniteHeartMinute: 0
+  numOfIMItem: 0
+  numOfHint: 0
+  starChestProgress: 0
+  starChestCapacity: 0
+  questIndex: 0
+  questSeed: 0
+  questGiftSeed: 0
+  easyQuestCount: 0
+  normalQuestCount: 0
+  hardQuestCount: 0
+  easyQuestGoal: 0
+  normalQuestGoal: 0
+  hardQuestGoal: 0
+  easyQuestType: 0
+  normalQuestType: 0
+  hardQuestType: 0
+  easyQuestGiftType: 0
+  normalQuestGiftType: 0
+  hardQuestGiftType: 0
+  easyQuestGiftAmount: 0
+  normalQuestGiftAmount: 0
+  hardQuestGiftAmount: 0
+  isEasyQuestClaimed: 0
+  isNormalQuestClaimed: 0
+  isHardQuestClaimed: 0
+  firstHintUsed: 0
+  firstIMUsed: 0
+  numberOfCompletedQuests: 0
+  numberOfConsecutiveDays: 0
+  isFTUEHintShown: 0
+  isFTUEInfiniteMoveShown: 0
+  isFTUEQuestShown: 0
+  isFTUECollectionShown: 0
+  isQuestRedPointOn: 0
+  ratingIsGiven: 0
+  isHintGivenBeforeFTUE: 0
+  isInfiniteMovesGivenBeforeFTUE: 0
+  isFTUEChapterShown: 0
+  needToGetDataFromCloud: 0
+--- !u!114 &8189110894920910852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fad85a3959d1f14ea4d1eec2febdb3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5643849859220660748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b23ae35b7cb2334281335f9c8185e52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6308411009780554691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a812e204352030042b863dbd751de6ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiManager: {fileID: 0}
+  starChest: {fileID: 0}
+  menu: {fileID: 0}
+  bannerAdReady: 0
+  interestitialAdReady: 0
+  rewardedAdReady: 0
+  rewardedVideoShown: 0
+--- !u!114 &3930851334423708194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 900e98fe1a840f3468a118bc15c025dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LoadCloadDataOverlayPrefab: {fileID: 6427111665735665098, guid: a1818c191346fbc4e867b681946d3c75,
+    type: 3}
+  dataLoadedInSplash: 0
+--- !u!114 &4958558426934919430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bdbf7f8af3314641826eb44fc34ad58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4493033147349978141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dab1c875ecc4f24a8018e0d83260413, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1683538239562114745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8304ee271a24d4e40b0e6d50277f7c7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  updateParticle: {fileID: 1349734283007493314, guid: 346790964a857471dac2867f7a831f08,
+    type: 3}
+  heartIcon: {fileID: 21300000, guid: 8a2dee91ffbf7b347bb0438441c5baab, type: 3}
+  infiniteHeartIcon: {fileID: 21300000, guid: fcc9a1fbfb17e044c80991c2c9fc1e98, type: 3}
+--- !u!114 &7700106635998479426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de32dea1ffc9a5540b6bb98a68c20928, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  splashSceneIndex: 0
+  menuSceneIndex: 1
+  gameSceneIndex: 2
+--- !u!114 &1135314866910857554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35167a7a88e79024cb3cdf97fb5456cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ChaptersData:
+  - ChapterNameKey: USEAST
+    Tree: {fileID: 21300000, guid: 5743572dd5963ba4bb57c3b56519fc15, type: 3}
+    Flower: {fileID: 21300000, guid: 9a95ec87dc8a0b444a331a2b56ffdcae, type: 3}
+    Fruit: {fileID: 21300000, guid: 8a1486ae21c22f24d850a9e45c24a1fe, type: 3}
+  - ChapterNameKey: CANADA
+    Tree: {fileID: 21300000, guid: f6d671607377adc44addf442b7f1ceed, type: 3}
+    Flower: {fileID: 21300000, guid: 5b58cb2a911f35d439558c087583e951, type: 3}
+    Fruit: {fileID: 21300000, guid: e3b773c6296408d45ac821e7b1844840, type: 3}
+  - ChapterNameKey: MEXICO
+    Tree: {fileID: 21300000, guid: cf6eda8af9d13a14482ef472e79bcd3b, type: 3}
+    Flower: {fileID: 21300000, guid: 3fc94649964e70041959d6a51f4e8ed9, type: 3}
+    Fruit: {fileID: 21300000, guid: 5f96d8007d262044f8e96ccc9662d983, type: 3}
+  - ChapterNameKey: BRAZIL
+    Tree: {fileID: 21300000, guid: 18c23bd9f255271419d1cda107338040, type: 3}
+    Flower: {fileID: 21300000, guid: 97f377d293fccf24a8777a1ac46cc567, type: 3}
+    Fruit: {fileID: 21300000, guid: cce3b9d4fe153a24bad8159a3492eaa8, type: 3}
+  - ChapterNameKey: UK
+    Tree: {fileID: 21300000, guid: 94a823ef48ef59a479691528b4039b7b, type: 3}
+    Flower: {fileID: 21300000, guid: e3cd0fadc019583448c45bca37879f61, type: 3}
+    Fruit: {fileID: 21300000, guid: f2e579534ab3c46498757fbd48ca5131, type: 3}
+  - ChapterNameKey: GERMANY
+    Tree: {fileID: 21300000, guid: 31c19f8c01242734db40408e154ae1df, type: 3}
+    Flower: {fileID: 21300000, guid: 654c6cb9355d14546b3db0570e73c46c, type: 3}
+    Fruit: {fileID: 21300000, guid: 2b73c90b9f183454197ff41a038c9f99, type: 3}
+  - ChapterNameKey: FRANCE
+    Tree: {fileID: 21300000, guid: bc4a950d3773c7f48879cf1b12ede6f5, type: 3}
+    Flower: {fileID: 21300000, guid: 151c82b8be5365f48aab358d5df270d5, type: 3}
+    Fruit: {fileID: 21300000, guid: f578d8221ea4dfe4b8fb9808d02edf73, type: 3}
+  - ChapterNameKey: SPAIN
+    Tree: {fileID: 21300000, guid: d09eea67ea95f484eaf9e61e77190f03, type: 3}
+    Flower: {fileID: 21300000, guid: fe98cd6e8a0aa2f42a3abebabe2134bd, type: 3}
+    Fruit: {fileID: 21300000, guid: 57126876f6ab11040afc0f0a6cc39b6e, type: 3}
+  - ChapterNameKey: ITALY
+    Tree: {fileID: 21300000, guid: 936c055d8bdb7e34aaf2dec02909a83e, type: 3}
+    Flower: {fileID: 21300000, guid: 0e6d263352b9906408b738afd69edb00, type: 3}
+    Fruit: {fileID: 21300000, guid: 0bd12b736494ea54f8cfe58560bd3d9b, type: 3}
+  - ChapterNameKey: GREECE
+    Tree: {fileID: 21300000, guid: 7e5c2d38be6f9ce498488bc27f19a5c5, type: 3}
+    Flower: {fileID: 21300000, guid: cc46aad26d25faf468c1831e5ba12347, type: 3}
+    Fruit: {fileID: 21300000, guid: 8c88e0157e2be8c4ab258e4fc7d73216, type: 3}
+  - ChapterNameKey: TURKEY
+    Tree: {fileID: 21300000, guid: e20b7770e5785b448a19944d0fa9e380, type: 3}
+    Flower: {fileID: 21300000, guid: 9e657c970cd187e45989c53d74b6bb98, type: 3}
+    Fruit: {fileID: 21300000, guid: b5be36eefd6eb0049ae145268a43bcd4, type: 3}
+  - ChapterNameKey: EGYPT
+    Tree: {fileID: 21300000, guid: 96aaf6ec3c10abc4eaaad124f9a325a1, type: 3}
+    Flower: {fileID: 21300000, guid: e8e1a7971760c1345af11bfd01bcc374, type: 3}
+    Fruit: {fileID: 21300000, guid: 1b2f77cabd166474786e750f510783b4, type: 3}
+  - ChapterNameKey: SAUDI
+    Tree: {fileID: 21300000, guid: 6437cb05fbdc44b42aa3b0f50e961c90, type: 3}
+    Flower: {fileID: 21300000, guid: c33feee0fb7d9774499238aa2d49c4a1, type: 3}
+    Fruit: {fileID: 21300000, guid: e9f3e6d50fdc8fa4cbdd6be160452382, type: 3}
+  - ChapterNameKey: KENYA
+    Tree: {fileID: 21300000, guid: 3c45d004ce9db9e478191f66ce90f0ce, type: 3}
+    Flower: {fileID: 21300000, guid: cf64b990b6acce244be5ff9c215530d3, type: 3}
+    Fruit: {fileID: 21300000, guid: 4934eddd522074047bc462ce0cccd4bb, type: 3}
+  - ChapterNameKey: IRAN
+    Tree: {fileID: 21300000, guid: 3c1d6270c2b955d4b8bf7d7fe1ce5a88, type: 3}
+    Flower: {fileID: 21300000, guid: e5bdbc9ce59989b43a6015a672ac16fb, type: 3}
+    Fruit: {fileID: 21300000, guid: c1632db91a0a17641bd06a0311c70fe1, type: 3}
+  - ChapterNameKey: INDIA
+    Tree: {fileID: 21300000, guid: 3c78d9a9c6e60394998d52d1a15ee0f4, type: 3}
+    Flower: {fileID: 21300000, guid: ca8a18d5ee9659140bfdaa959c42001c, type: 3}
+    Fruit: {fileID: 21300000, guid: 752d0c580d0cb9346b0ac84afcfaeade, type: 3}
+  - ChapterNameKey: THAILAND
+    Tree: {fileID: 21300000, guid: a23756e37dfc3974183ed2ff399ee963, type: 3}
+    Flower: {fileID: 21300000, guid: b7a39bc05d5cb91488c98b0c6b6021d7, type: 3}
+    Fruit: {fileID: 21300000, guid: 0b089994e3277db4fb9027b67a987151, type: 3}
+  - ChapterNameKey: SINGAPORE
+    Tree: {fileID: 21300000, guid: f22d6756b48a46e4895f89d67ffd3899, type: 3}
+    Flower: {fileID: 21300000, guid: 3940a57788c84184d980cb564a190dc2, type: 3}
+    Fruit: {fileID: 21300000, guid: cab5b239166c820458cf47a4cdaa5815, type: 3}
+  - ChapterNameKey: AUSTRALIA
+    Tree: {fileID: 21300000, guid: dbabc5450b2ec424da3faf1a5790eaf9, type: 3}
+    Flower: {fileID: 21300000, guid: 0263f565996a31141abbfd0fcf2f29da, type: 3}
+    Fruit: {fileID: 21300000, guid: 61b15ae7de64a1d4a9b6f889b229f008, type: 3}
+  - ChapterNameKey: NEWZEALAND
+    Tree: {fileID: 21300000, guid: 730380725ea73b8429ea6195c736cc3a, type: 3}
+    Flower: {fileID: 21300000, guid: 54fa07a6143efd44489bf094aa5e93b3, type: 3}
+    Fruit: {fileID: 21300000, guid: bc594e11cb5dc0346a0a7de1201c7c72, type: 3}
+  - ChapterNameKey: TAIWAN
+    Tree: {fileID: 21300000, guid: 6ca4f77f2a888a74aac9ee14861b009a, type: 3}
+    Flower: {fileID: 21300000, guid: 1e7ee8f24571b7a4aa7e625205c23d83, type: 3}
+    Fruit: {fileID: 21300000, guid: 17e13a4dbba34bc4391d5f84cc8d6a32, type: 3}
+  - ChapterNameKey: CHINA
+    Tree: {fileID: 21300000, guid: f607d6ebcb91ef148a29f1d4569a1b38, type: 3}
+    Flower: {fileID: 21300000, guid: a824780e6cd710b4aa1d6b159e58ab00, type: 3}
+    Fruit: {fileID: 21300000, guid: 510a8f6eb940f4344bfb437ed9eafbad, type: 3}
+  - ChapterNameKey: KOREA
+    Tree: {fileID: 21300000, guid: 8f0290c77601a1b4fa2e825ad8995610, type: 3}
+    Flower: {fileID: 21300000, guid: 72f8f484085e41f4185a5b12419c72a1, type: 3}
+    Fruit: {fileID: 21300000, guid: ec7a6f12342bb114aadafad099adadb0, type: 3}
+  - ChapterNameKey: JAPAN
+    Tree: {fileID: 21300000, guid: 2a372adcb0071164e843819b584df941, type: 3}
+    Flower: {fileID: 21300000, guid: 2dd830bf009153f4f81e242b25fabcd7, type: 3}
+    Fruit: {fileID: 21300000, guid: 73a3e504b6b259b48b86696576553f95, type: 3}
+  - ChapterNameKey: RUSSIA
+    Tree: {fileID: 21300000, guid: 8d320f0f629359649b13c8f506958c43, type: 3}
+    Flower: {fileID: 21300000, guid: 1b8360911b247a047a2c00024cf6e8e0, type: 3}
+    Fruit: {fileID: 21300000, guid: 4ad702100f0fcee4db5ef69461aebe26, type: 3}
+  - ChapterNameKey: USWEST
+    Tree: {fileID: 21300000, guid: e6c3fd22557020c46836b2473f7dba84, type: 3}
+    Flower: {fileID: 21300000, guid: daeaa140f3637704ea6e722c6cf03be6, type: 3}
+    Fruit: {fileID: 21300000, guid: 7d9adb9267e6d12479d4cf622501631d, type: 3}
+--- !u!114 &5373694620696342903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 586683aa073fdb14e9ba06530f70c90e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &136306352691962234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402739919299833852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd096e189beed6479a1a855cf56c64d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuScript: {fileID: 0}
+  uiManagerScript: {fileID: 0}

@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8563b8fe3c374c33ae16e6c5469523d, type: 3}
+  m_Name: Level24
+  m_EditorClassIdentifier: 
+  hex: 0
+  size:
+    x: 5
+    y: 6
+  tiles:
+  - elementName: 0x0
+    position:
+      x: 0
+      y: 0
+    rotation: 2
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    - x: 1
+      y: 0
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 1x0
+    position:
+      x: 1
+      y: 0
+    rotation: 3
+    correctRotation: 3
+    connections:
+    - x: -1
+      y: 0
+    tileType: 3
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 2x0
+    position:
+      x: 2
+      y: 0
+    rotation: 0
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    tileType: 2
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 3x0
+    position:
+      x: 3
+      y: 0
+    rotation: 1
+    correctRotation: 1
+    connections:
+    - x: 1
+      y: 0
+    tileType: 2
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 4x0
+    position:
+      x: 4
+      y: 0
+    rotation: 1
+    correctRotation: 3
+    connections:
+    - x: -1
+      y: 0
+    - x: 0
+      y: 1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 0x1
+    position:
+      x: 0
+      y: 1
+    rotation: 1
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 1
+    standardTileTypeHex: 0
+  - elementName: 1x1
+    position:
+      x: 1
+      y: 1
+    rotation: 2
+    correctRotation: 1
+    connections:
+    - x: 1
+      y: 0
+    tileType: 2
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 2x1
+    position:
+      x: 2
+      y: 1
+    rotation: 0
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: -1
+    - x: -1
+      y: 0
+    - x: 0
+      y: 1
+    - x: 1
+      y: 0
+    tileType: 0
+    standardTileType: 4
+    standardTileTypeHex: 0
+  - elementName: 3x1
+    position:
+      x: 3
+      y: 1
+    rotation: 0
+    correctRotation: 3
+    connections:
+    - x: -1
+      y: 0
+    tileType: 2
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 4x1
+    position:
+      x: 4
+      y: 1
+    rotation: 1
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 1
+    standardTileTypeHex: 0
+  - elementName: 0x2
+    position:
+      x: 0
+      y: 2
+    rotation: 0
+    correctRotation: 1
+    connections:
+    - x: 1
+      y: 0
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 1x2
+    position:
+      x: 1
+      y: 2
+    rotation: 3
+    correctRotation: 3
+    connections:
+    - x: -1
+      y: 0
+    - x: 0
+      y: 1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 2x2
+    position:
+      x: 2
+      y: 2
+    rotation: 3
+    correctRotation: 2
+    connections:
+    - x: 0
+      y: -1
+    tileType: 3
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 3x2
+    position:
+      x: 3
+      y: 2
+    rotation: 0
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    - x: 1
+      y: 0
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 4x2
+    position:
+      x: 4
+      y: 2
+    rotation: 3
+    correctRotation: 2
+    connections:
+    - x: -1
+      y: 0
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 0x3
+    position:
+      x: 0
+      y: 3
+    rotation: 1
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    - x: 1
+      y: 0
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 1x3
+    position:
+      x: 1
+      y: 3
+    rotation: 2
+    correctRotation: 2
+    connections:
+    - x: -1
+      y: 0
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 2x3
+    position:
+      x: 2
+      y: 3
+    rotation: 0
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    tileType: 2
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 3x3
+    position:
+      x: 3
+      y: 3
+    rotation: 1
+    correctRotation: 1
+    connections:
+    - x: 1
+      y: 0
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 4x3
+    position:
+      x: 4
+      y: 3
+    rotation: 2
+    correctRotation: 3
+    connections:
+    - x: -1
+      y: 0
+    - x: 0
+      y: 1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 0x4
+    position:
+      x: 0
+      y: 4
+    rotation: 1
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 1
+    standardTileTypeHex: 0
+  - elementName: 1x4
+    position:
+      x: 1
+      y: 4
+    rotation: 0
+    correctRotation: 1
+    connections:
+    - x: 1
+      y: 0
+    tileType: 2
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 2x4
+    position:
+      x: 2
+      y: 4
+    rotation: 0
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: -1
+    - x: -1
+      y: 0
+    - x: 0
+      y: 1
+    - x: 1
+      y: 0
+    tileType: 0
+    standardTileType: 4
+    standardTileTypeHex: 0
+  - elementName: 3x4
+    position:
+      x: 3
+      y: 4
+    rotation: 2
+    correctRotation: 3
+    connections:
+    - x: -1
+      y: 0
+    tileType: 2
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 4x4
+    position:
+      x: 4
+      y: 4
+    rotation: 1
+    correctRotation: 0
+    connections:
+    - x: 0
+      y: 1
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 1
+    standardTileTypeHex: 0
+  - elementName: 0x5
+    position:
+      x: 0
+      y: 5
+    rotation: 3
+    correctRotation: 1
+    connections:
+    - x: 1
+      y: 0
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0
+  - elementName: 1x5
+    position:
+      x: 1
+      y: 5
+    rotation: 3
+    correctRotation: 3
+    connections:
+    - x: -1
+      y: 0
+    tileType: 1
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 2x5
+    position:
+      x: 2
+      y: 5
+    rotation: 1
+    correctRotation: 2
+    connections:
+    - x: 0
+      y: -1
+    tileType: 3
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 3x5
+    position:
+      x: 3
+      y: 5
+    rotation: 1
+    correctRotation: 1
+    connections:
+    - x: 1
+      y: 0
+    tileType: 1
+    standardTileType: 0
+    standardTileTypeHex: 0
+  - elementName: 4x5
+    position:
+      x: 4
+      y: 5
+    rotation: 0
+    correctRotation: 2
+    connections:
+    - x: -1
+      y: 0
+    - x: 0
+      y: -1
+    tileType: 0
+    standardTileType: 2
+    standardTileTypeHex: 0

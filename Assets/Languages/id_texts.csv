@@ -1,0 +1,185 @@
+ConsentTitle,Kami telah memperbarui persyaratan kami
+ConsentMainText,Untuk melanjutkan permainan anda harus menkonfirmasi jika anda telah setuju dengan persyaratan layanan dan sudah membaca kebijakan privasi kami
+ConsentToS,Persyaratan Pelayanan
+ConsentPP,Kebijakan Privasi
+ConsentTitleYes,Anda akan melihat iklan yang lebih baik
+ConsentTextYes,Mantab! kami berharap iklan kami relevan buat anda dan sesuai dengan minat anda. Jika anda berubah pikiran, anda dapat menghapus iklan ini dengan keluar dari pilihan enable dibagian personalisasi iklan dibawah setingan akun/Google/ Iklan pada perangkat anda dan mulai menerima iklan secara acak.
+ConsentTitleNo,Anda akan menemukan iklan secara acak
+ConsentTextNo,Kami tidak akan mengumpulkan data anda untuk yang sudah dipersonalisasikan di aplikasi ini. Namun, anda dapat mengizinkan kami untuk menampilkan iklan yang sudah diseleksi diberbagai aplikasi lain. Dalam hal ini kami akan mengumpulkan data anda dari apilkasi lain dan menawarkan anda pengalaman iklan yang sudah dipersonalisasikan dari sana.
+Close,TUTUP
+Reject,Tolak
+Accept,TERIMA
+Continue,Lanjutkan
+Notif0Title,Sudah waktunya...
+Notif0Text,Sambungkan pipa!
+Notif1Title,Otakmu merindukanku!
+Notif1Text,Isi ulang hati and dan mainkan!
+Notif2Title,Tingkatkan keterampilan mental anda!
+Notif2Text,Apakah anda siap untuk tantangan pipa?
+Notif3Title,Apakah anda cukup pintar?
+Notif3Text,Saya menantang anda untuk menyelesaikan tingkatan paling sulit!
+USEAST,Amerika Serikat Timur
+CANADA,Kanada
+MEXICO,Meksiko
+BRAZIL,Brazil
+UK,Inggris
+GERMANY,Jerman
+FRANCE,Perancis
+SPAIN,Spanyol
+ITALY,Italia
+GREECE,Yunani
+TURKEY,Turki
+EGYPT,Mesir
+SAUDI,Arab Saudi
+KENYA,Kenya
+IRAN,Iran
+INDIA,India
+THAILAND,Thailand
+SINGAPORE,Singapura
+AUSTRALIA,Australia
+NEWZEALAND,New Zealand
+TAIWAN,Taiwan
+CHINA,Cina
+KOREA,Korea
+JAPAN,Jepang
+RUSSIA,Rusia
+USWEST,Amerika Serikat Barat
+DailyQuests,Tugas Harian
+Reward,Bonus
+Coins,12 Koin
+InfiniteHearts,12 Jam dari Hati Tanpa Batas
+InfiniteMoves,12 Gerakan Tanpa Batas
+Hints,12 Petunjuk
+Easy,Mudah
+Medium,Sedang
+Hard,Sulit
+Claimed,Diklaim!
+Date,Jumat, 26 Maret
+Saturday,Sabtu
+Sunday,Minggu
+Monday,Senin
+Tuesday,Selasa
+Wednesday,Rabu
+Thursday,Kamis
+Friday,Jumat
+January,Januari
+February,Februari
+March,Maret
+April,April
+May,Mei
+June,Juni
+July,Juli
+August,Agustus
+September,September
+October,Oktober
+November,November
+December,Desember
+Q_RotateTiles,Putar 100 ubin
+Q_FinishLevels,Menangkan 100 tingkatan
+Q_EarnCoins,Dapatkan 100 Koin
+Q_EarnInfiniteHearts,Dapatkan 100 menit dari Hati Tanpa Batas
+Q_EarnHints,Dapatkan 100 Petunjuk
+Q_EarnInfiniteMove,Dapatkan 100 Gerakan Tanpa Batas
+Q_WinLevelsContinuously,Menangkan 100 tingkatan tanpa bisa kalah
+Q_EarnCards,Dapatkan 100 katu di dalam Koleksi
+Q_EarnStars,Dapatkan 100 Bintang
+Q_UsePowerUps,Gunakan 100 Petunjuk atau Gerakan Tanpa Batas
+Q_WinWithoutUndo,Menangkan 100 Tingkatan tanpa menggunakan tombol Membatalkan
+Q_FillWells,Isi 100 Sumur
+Q_GrowPlants,Tumbuhkan 100 Tanaman
+Q_WinWith3Stars,Menangkan 100 Tingkatan dengan 3 Bintang
+Q_FillPipes,Isi 100 Pipa
+Q_OpenChests,Buka 100 Peti
+Q_OpenStarChest,Buka 100 Peti Bintang
+Q_OpenLevelChest,Buka 100 Tingkatan Peti
+Q_ReachSpecificLevel,Raih 100 tingkatan
+Q_PlayLevelsForSomeSeconds,Mainkan tingkatan dengan total 100 menit
+Q_EarnScore,Dapatkan total 100 dengan poin anda
+Q_PlayLevelsForSomeSecondsContinuously,Mainkan tingkatan dengan total 100 menit tanpa menutup permainan
+TapOnAllShapes,Ketuk semua Bentuk!
+Awesome,Luar Biasa!
+Claim,Klaim
+Collection,Koleksi
+FinishLevelX,Selesaikan Tingkatan 12
+Settings,Pengaturan
+Sounds,Suara
+Music,Musik
+Vibration,Vibrasi
+Achievements,Prestasi
+Full,Penuh
+Store,Toko
+NoAds,Bayar 12 Dolar untuk mengahpus iklan dari permainan
+RestorePurchases,Mengembalikan Pembelian
+XHours,12 Jam
+Beginner,Paket Pemula
+Super,Paket Super
+Mega,Paket Mega
+Giant,Paket Raksasa
+Champion,Paket Pemenang
+Legendary,Paket Legendaris
+Sale,Penjualan
+MostPopular,Paling Popular
+BestValue,Nilai Terbaik
+LevelX,Tingaktan 12
+Share,Bagikan
+OutOfMoves,Kehabisan Gerakan
+GetXMoves,Dapatkan 5 Gerakan untuk Melanjutkan
+VideoAd,Video
+PlayOn,Terus Bermain
+LevelFailed,Tingakatan Gagal!
+TryAgain,Coba Lagi
+NoAdsTitle,IKLAN
+NoAdsButton,TANPA IKLAN
+FTUE_Rotate,Ketuk pipa untuk memutarkan!
+FTUE_AllPipes,Anda harus menggunakan semua Pipa!
+FTUE_WaterToPlants,Sirami semua tanaman dengan jumalah gerakan yang anda miliki!
+FTUE_Undo,Anda dapat membatalkan langka terkahir Anda kapan saja!
+FTUE_Hint,Anda dapat menggunakan petunjuk untuk menyelesaikan bagian dari tingkatan!
+FTUE_IM,Anda dapat membuat gerakan anda tanpa batas!
+FTUE_Card,Anda telah mengoleksi sebuah Kartu!
+FTUE_Collection1,Anda dapat melihat Koleksi Kartu anda kapan saja!
+FTUE_Store,Anda dapat menemukan lebih banyak di Toko!
+FTUE_Collection2,Selamat datang di Koleksi anda! Anda dapat mengetuk kartu mana saja untuk melihatnya!
+FTUE_Quests,Selesaikan tugas berbeda dan dapatkan beragam bonus!
+FTUE_Quest24,Tugas baru akan muncul di sini setiap 24 jam!
+TapShowBoard,Ketuk di sini untuk melihat papan peringkat!
+TapToReturn,Ketuk di sini untuk kembali!
+TapToSkip,Ketuk di sini untuk melewatkan!
+AreYouSure,Apakah Anda Yakin?
+YouLoseHeart,Anda akan kehilangan 1 Hati!
+YouWontLoseHeart,Anda tidak akan kehilangan Hati!
+Quit,Berhenti
+ShareMessage,Saya semakin mahir dengan Pipa😍! Unduh dari:
+Enter,Masuk
+SelectChapter,Pilih Babak
+FTUE_Chapters,Disini anda dapat beralih antar babak!
+LevelsXY,Tingkatan 1-20
+Buy,Beli
+Refill,Isi Ulang
+Get3Hints,Dapatkan 3 Petunjuk!
+Get3IMs,Dapatkan 3 Gerakan Tanpa Batas!
+GetFullHearts,Isi Ulang Hati Anda Hingga 5!
+MoreOffers,Lebih Banyak Penawaran!
+LockersExplain,Membuka tingkatan 2
+Rating,Pipa didukung oleh 2 pengembang yang penuh semangat!  Sempurnakan pekerjaan kami dengan memberikan penilaian untuk permainan ini. Terima kasih! <3
+FTUE_Rotate2,Ketuk untuk memutar!
+FTUE_AllPipes2,Gunakan semua pipa!
+FTUE_WaterToPlants2,Anda memiliki gerakan tanpa batas!
+FTUE_Undo2,Ketuk disini untuk membatalkan!
+FTUE_Hint2,Ketuk disini untuk menggunakan petunjuk!
+FTUE_IM2,Ketuk untuk menggunakan gerakan tanpa batas!
+FTUE_Card2,Kartu sudah dikumpulkan!
+FTUE_Collection1_2,Ketuk disini untuk melihat koleksi!
+FTUE_Store2,Temukan lebih banyak di Toko!
+FTUE_Collection2_2,Ketuk pada kartu untuk melihatnya!
+FTUE_Quests2,Selesaikan misi dan dapatkan hadiah!
+FTUE_Quest24_2,Misi Baru setiap 24 jam!
+FTUE_Chapters_2,Ketuk untuk memilih babak!
+ChooseTwoGifts,Pilih 2 hadiah!
+TwoMoreGifts,2 hadiah lagi!
+OutOfHearts,Kehabisan Hati!
+TimeToNextHeart,Waktunya ke Hati berikutnya:
+RefillHearts,Isi ulang Hati
+RateUs,Berikan kami penilaian 
+LoadCloudData,Muat lagi tingkatan yang pernah disimpan?
+Retry,Coba Lagi

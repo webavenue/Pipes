@@ -1,0 +1,185 @@
+﻿ConsentTitle,Wir haben unsere Geschäftsbedingungen aktualisiert
+ConsentMainText,Um mit dem Spielen fortzufahren, musst du bestätigen, dass du mit unseren Nutzungsbedingungen einverstanden bist und unsere Datenschutzrichtlinie gelesen hast
+ConsentToS,Nutzungsbedingungen
+ConsentPP,Datenschutzrichtlinie
+ConsentTitleYes,Du siehst bessere Werbung
+ConsentTextYes,Toll! Wir hoffen, du findest unsere Anzeigen relevant und passend zu deinen Interessen. Solltest du deine Meinung ändern, kannst du diese Zustimmung widerrufen, indem du auf deinem Gerät unter Einstellungen/Google/Ads die Option "Anzeigenpersonalisierung deaktivieren" aktivierst und beginnst, zufällige Anzeigen zu erhalten.
+ConsentTitleNo,Du wirst zufällige Werbeanzeigen sehen
+ConsentTextNo,Wir werden deine Daten nicht für personalisierte Werbung in dieser App sammeln. Du kannst uns jedoch ermächtigen, dir kuratierte Werbung in einer anderen App zu zeigen. In diesem Fall werden wir deine Daten in dieser anderen App erfassen und dir dort ein personalisiertes Werbeerlebnis bieten.
+Close,SCHLIEßEN
+Reject,Ablehnen
+Accept,AKZEPTIEREN
+Continue,Weiter
+Notif0Title,Es ist Zeit zu...
+Notif0Text,Verbinde die Leitungen!
+Notif1Title,Dein Gehirn vermisst mich!
+Notif1Text,Tanken deine Herzen auf und komm spielen!
+Notif2Title,Verbessere deine mentalen Fähigkeiten!
+Notif2Text,Bist du bereit für die Pipes-Herausforderung?
+Notif3Title,Bist du schlau genug?
+Notif3Text,Trau dich, die schwersten Level zu beenden!
+USEAST,US Osten
+CANADA,Kanada
+MEXICO,Mexiko
+BRAZIL,Brasilien
+UK,Vereinigtes Königreich
+GERMANY,Deutschland
+FRANCE,Frankreich
+SPAIN,Spanien
+ITALY,Italien
+GREECE,Griechenland
+TURKEY,Türkei
+EGYPT,Ägypten
+SAUDI,Saudi-Arabien
+KENYA,Kenia
+IRAN,Iran
+INDIA,Indien
+THAILAND,Thailand
+SINGAPORE,Singapur
+AUSTRALIA,Australien
+NEWZEALAND,Neuseeland
+TAIWAN,Taiwan
+CHINA,China
+KOREA,Korea
+JAPAN,Japan
+RUSSIA,Russland
+USWEST,US Westen
+DailyQuests,Tägliche Aufgaben
+Reward,Belohnung
+Coins,12 Münzen
+InfiniteHearts,12 Stunden unendliches Herz
+InfiniteMoves,12 unendliche Züge
+Hints,12 Hinweise
+Easy,Leicht
+Medium,Mittel
+Hard,Schwierig
+Claimed,Beansprucht!
+Date,Freitag, 26. März
+Saturday,Samstag
+Sunday,Sonntag
+Monday,Montag
+Tuesday,Dienstag
+Wednesday,Mittwoch
+Thursday,Donnerstag
+Friday,Freitag
+January,Januar
+February,Februar
+March,März
+April,April
+May,Mai
+June,Juni
+July,Juli
+August,August
+September,September
+October,OKtober
+November,November
+December,Dezember
+Q_RotateTiles,100 Kacheln rotieren
+Q_FinishLevels,100 Levels gewinnen
+Q_EarnCoins,100 Münzen verdienen
+Q_EarnInfiniteHearts,Verdiene 100 Minuten unendliches Herz
+Q_EarnHints,100 Hinweise verdienen
+Q_EarnInfiniteMove,Verdiene 100 unendliche Züge
+Q_WinLevelsContinuously,Gewinne 100 Levels, ohne zu verlieren
+Q_EarnCards,Verdiene 100 Karten in der Sammlung
+Q_EarnStars,100 Sterne verdienen
+Q_UsePowerUps,Verwende 100 Hinweise oder unendliche Züge
+Q_WinWithoutUndo,Gewinne 100 Levels, ohne die Rückgängig-Taste zu benutzen
+Q_FillWells,Füllen 100 Brunnen
+Q_GrowPlants,100 Pflanzen anbauen
+Q_WinWith3Stars,Gewinne 100 Levels mit 3 Sternen
+Q_FillPipes,Füllen Sie 100 Pipes
+Q_OpenChests,100 Truhen öffnen
+Q_OpenStarChest,100 Sterntruhen öffnen
+Q_OpenLevelChest,100 Level-Truhen öffnen
+Q_ReachSpecificLevel,Erreiche Level 100
+Q_PlayLevelsForSomeSeconds,Levels insgesamt 100 Minuten lang spielen
+Q_EarnScore,Erreiche mit deinen Punkten insgesamt 100
+Q_PlayLevelsForSomeSecondsContinuously,Spiele die Level insgesamt 100 Minuten lang, ohne das Spiel zu schließen
+TapOnAllShapes,Tippe auf alle Formen!
+Awesome,Großartig!
+Claim,Anspruch
+Collection,Kollektion
+FinishLevelX,Beenden Level 12
+Settings,Einstellungen
+Sounds,Sound
+Music,Musik
+Vibration,Vibration
+Achievements,Errungenschaften
+Full,Voll
+Store,Shop
+NoAds,$12 bezahlen, um Werbung aus dem Spiel zu entfernen
+RestorePurchases,Käufe wiederherstellen
+XHours,12 Stunden
+Beginner,Einsteiger-Paket
+Super,Super-Paket
+Mega,Mega-Paket
+Giant,Gigant-Paket
+Champion,Champion's Paket
+Legendary,Legendäres Paket
+Sale,Verkauf
+MostPopular,Beliebtestes
+BestValue,Bester Wert
+LevelX,Level 12
+Share,Teilen
+OutOfMoves,Keine Züge mehr
+GetXMoves,Erwere 5 Züge, um weiterzumachen
+VideoAd,Video
+PlayOn,Weiterspielen
+LevelFailed,Level fehlgeschlagen!
+TryAgain,Nochmal versuchen
+NoAdsTitle,WERBUNG
+NoAdsButton,KEINE WERBUNG
+FTUE_Rotate,Tippe auf die Pipes, um sie zu drehen!
+FTUE_AllPipes,Du musst alle Pipes verwenden!
+FTUE_WaterToPlants,Gieße alle Pflanzen mit der Anzahl der Züge, die du hast!
+FTUE_Undo,Du kannst deinen letzten Schritt jederzeit rückgängig machen!
+FTUE_Hint,Du kannst einen Hinweis verwenden, um einen Teil des Levels zu lösen!
+FTUE_IM,Du kannst die Züge unendlich machen!
+FTUE_Card,Du hast eine Karte gesammelt!
+FTUE_Collection1,Du kannst deine Karten immer in deiner Sammlung sehen!
+FTUE_Store,Mehr finden Sie im Shop!
+FTUE_Collection2,Willkommen in deiner Kollektion! Du kannst auf jede deiner Karten tippen, um sie zu sehen!
+FTUE_Quests,Schließe verschiedene Aufgaben ab und erhalte verschiedene Belohnungen!
+FTUE_Quest24,Neue Aufgaben werden hier alle 24 Stunden erscheinen!
+TapShowBoard,Tippe hier, um das Board zu sehen!
+TapToReturn,Zum Zurückkehren antippen!
+TapToSkip,Zum Überspringen antippen!
+AreYouSure,Bist du sicher?
+YouLoseHeart,Du verlierst 1 Herz!
+YouWontLoseHeart,Du verlierst kein Herz!
+Quit,Beenden
+ShareMessage,Ich werde immer schlauer mit Pipes 😍! Download hier:
+Enter,Eintreten
+SelectChapter,Kapitel auswählen
+FTUE_Chapters,Hier kannst du zwischen den Kapiteln wechseln!
+LevelsXY,Level 1-20
+Buy,Kaufen
+Refill,Auffüllen
+Get3Hints,Erhalte 3 Hinweise!
+Get3IMs,Hole dir 3 unendliche Züge!
+GetFullHearts,Fülle deine Herzen auf 5 auf!
+MoreOffers,Mehr Angebote!
+LockersExplain,Wird auf Stufe 2 freigeschaltet
+Rating,Pipes wurde von einem Team von 2 leidenschaftlichen Entwicklern entwickelt! Verbessere die Arbeit, die hier getan wurde, indem du unser Spiel bewertest. Danke! <3
+FTUE_Rotate2,Zum Drehen antippen!
+FTUE_AllPipes2,Benutze alle Rohre!
+FTUE_WaterToPlants2,Du hast nur begrenzte Bewegungsmöglichkeiten!
+FTUE_Undo2,Zum Rückgängigmachen antippen!
+FTUE_Hint2,Antippen , um einen Hinweis zu verwenden!
+FTUE_IM2,Antippen , um eine unendliche Bewegung zu verwenden!
+FTUE_Card2,Karte gesammelt!
+FTUE_Collection1_2,Antippen , um die Kollektion zu sehen!
+FTUE_Store2,Mehr im Shop finden!
+FTUE_Collection2_2,Tippe auf die Karten, um sie zu sehen!
+FTUE_Quests2,Erfülle Quests und erhalte Belohnungen!
+FTUE_Quest24_2,Neue Quests alle 24 Stunden!
+FTUE_Chapters_2,Antippen , um ein Kapitel auszuwählen!
+ChooseTwoGifts,Wähle 2 Geschenke!
+TwoMoreGifts,2 weitere Geschenke!
+OutOfHearts,Keine Herzen mehr
+TimeToNextHeart,Zeit bis zum nächsten Herz:
+RefillHearts,Herzen nachfüllen
+RateUs,Bewerten Sie uns
+LoadCloudData,Letztes gespeichertes Spiel laden?
+Retry,Versuche es nochmals

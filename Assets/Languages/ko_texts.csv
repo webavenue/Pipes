@@ -1,0 +1,185 @@
+﻿ConsentTitle,저희는 이용 약관을 개정했습니다
+ConsentMainText,계속 플레이하시려면, 저희의 이용 약관에 동의하시고 개인 정보 보호 정책을 읽으셨음을 확인해주셔야 합니다
+ConsentToS,이용 약관
+ConsentPP,개인 정보 보호 정책
+ConsentTitleYes,더 나은 광고를 보시게 될 것입니다
+ConsentTextYes,좋습니다! 저희는 여러분이 저희 광고가 여러분의 흥미와 관련되고 적절하다는 것을 발견하기를 바랍니다. 만약 마음이 바뀌신다면, 여러분의 디바이스에서 설정 -> 구글 -> 광고의 광고 개인화 탈퇴 기능을 통해 동의를 철회하시고 임의의 광고를 받기 시작하실 수 있습니다.
+ConsentTitleNo,임의의 광고를 보시게 될 것입니다
+ConsentTextNo,저희는 이 앱 내의 개인화된 광고를 목적으로 데이터를 수집하지 않을 것입니다. 그럼에도 불구하고, 당신은 저희가 다양한 앱 내에서 여러분께 엄선된 광고들을 제공해드릴 수 있도록 허용해주실 수 있습니다. 그 경우, 저희는 다른 앱에서 데이터를 수집하여 그 곳에서의 맞춤형 광고를 제공해드릴 것입니다.
+Close,닫기
+Reject,거절
+Accept,승인
+Continue,계속
+Notif0Title,시간이 다 됐습니다...
+Notif0Text,파이프들을 연결하세요!
+Notif1Title,당신의 두뇌가 저를 그리워합니다!
+Notif1Text,하트를 충전하고 플레이하러 와 주세요!
+Notif2Title,정신력을 계발해 봅시다!
+Notif2Text,파이프 도전에 응하시겠습니까?
+Notif3Title,충분히 똑똑하신가요?
+Notif3Text,가장 어려운 레벨들을 완료하실 수 있는지 보겠습니다!
+USEAST,미국 동부
+CANADA,캐나다
+MEXICO,멕시코
+BRAZIL,브라질
+UK,영국
+GERMANY,독일
+FRANCE,프랑스
+SPAIN,에스파냐
+ITALY,이탈리아
+GREECE,그리스
+TURKEY,터키
+EGYPT,이집트
+SAUDI,사우디 아라비아
+KENYA,케냐
+IRAN,이란
+INDIA,인도
+THAILAND,타이
+SINGAPORE,싱가포르
+AUSTRALIA,오스트레일리아
+NEWZEALAND,뉴질랜드
+TAIWAN,타이완
+CHINA,중국
+KOREA,한국
+JAPAN,일본
+RUSSIA,러시아
+USWEST,미국 서부
+DailyQuests,일일 퀘스트
+Reward,보상
+Coins,동전 12개
+InfiniteHearts,12시간의 하트 무한
+InfiniteMoves,12개의 무한 움직임
+Hints,힌트 12개
+Easy,쉬움
+Medium,보통
+Hard,어려움
+Claimed,수집함!
+Date,3월 26일 금요일
+Saturday,토요일
+Sunday,일요일
+Monday,월요일
+Tuesday,화요일
+Wednesday,수요일
+Thursday,목요일
+Friday,금요일
+January,1월
+February,2월
+March,3월
+April,4월
+May,5월
+June,6월
+July,7월
+August,8월
+September,9월
+October,10월
+November,11월
+December,12월
+Q_RotateTiles,타일 100개 회전
+Q_FinishLevels,100개 레벨 승리
+Q_EarnCoins,동전 100개 수집
+Q_EarnInfiniteHearts,무한 하트 100분 획득
+Q_EarnHints,힌트 100개 획득
+Q_EarnInfiniteMove,무한 움직임 100개 획득
+Q_WinLevelsContinuously,패배 없이 레벨 100개 승리
+Q_EarnCards,수집 목록에 카드 100장 획득
+Q_EarnStars,별 100개 획득
+Q_UsePowerUps,힌트 100개 혹은 무한 움직임 사용
+Q_WinWithoutUndo,실행취소 버튼 누르지 않고 레벨 100개 승리
+Q_FillWells,우물 100개 채우기
+Q_GrowPlants,식물 100개 키우기
+Q_WinWith3Stars,별 3개로 레벨 100개 승리
+Q_FillPipes,파이프 100개 채우기
+Q_OpenChests,상자 100개 개봉
+Q_OpenStarChest,별 상자 100개 개봉
+Q_OpenLevelChest,레벨 상자 10개 개봉
+Q_ReachSpecificLevel,레벨 100 도달
+Q_PlayLevelsForSomeSeconds,총 100분 간 레벨들 플레이
+Q_EarnScore,총 100점 획득
+Q_PlayLevelsForSomeSecondsContinuously,게임을 종료하지 않고 총 100분 이상 레벨들 플레이
+TapOnAllShapes,모든 모양을 탭하세요!
+Awesome,멋져요!
+Claim,수집
+Collection,수집
+FinishLevelX,레벨 12 완료
+Settings,설정
+Sounds,소리
+Music,음악
+Vibration,진동
+Achievements,업적
+Full,전체
+Store,상점
+NoAds,$12를 지불해 게임에서 광고들을 제거하세요
+RestorePurchases,구매 복구
+XHours,12시간
+Beginner,초보자 번들
+Super,수퍼 번들
+Mega,메가 번들
+Giant,자이언트 번들
+Champion,챔피언 번들
+Legendary,레전드 번들
+Sale,판매
+MostPopular,가장 인기 있는
+BestValue,최고 가치
+LevelX,레벨 12
+Share,공유
+OutOfMoves,움직임이 남아있지 않음
+GetXMoves,계속하시려면 5번의 움직임을 얻으세요
+VideoAd,동영상
+PlayOn,켜기
+LevelFailed,레벨 실패!
+TryAgain,다시 시도하기
+NoAdsTitle,광고
+NoAdsButton,광고 제거
+FTUE_Rotate,파이프들을 탭해서 회전시키세요!
+FTUE_AllPipes,모든 파이프들을 사용하셔야 합니다!
+FTUE_WaterToPlants,보유하고 있는 움직임 숫자를 가지고 모든 식물들에 물을 주세요!
+FTUE_Undo,언제든 마지막 움직임을 취소하실 수 있습니다!
+FTUE_Hint,레벨의 일부를 풀기 위해 힌트를 사용하실 수 있습니다!
+FTUE_IM,무한히 움직이실 수 있습니다!
+FTUE_Card,카드를 수집하셨습니다!
+FTUE_Collection1,언제든 수집 목록에서 카드들을 보실 수 있습니다!
+FTUE_Store,상점에서 더 많은 것들을 찾으실 수 있습니다!
+FTUE_Collection2,당신의 수집 목록에 오신 것을 환영합니다! 카드들 중 하나를 탭하셔서 각각을 보실 수 있습니다!
+FTUE_Quests,다양한 퀘스트를 완료하시고 다채로운 보상을 얻으세요!
+FTUE_Quest24,24시간마다 새 퀘스트들이 여기로 나올 것입니다!
+TapShowBoard,게시판을 보시려면 여기를 탭하세요!
+TapToReturn,돌아가려면 탭하세요!
+TapToSkip,건너뛰려면 탭하세요!
+AreYouSure,확실합니까?
+YouLoseHeart,1개의 하트를 잃게되실 겁니다!
+YouWontLoseHeart,하트를 잃지 않으실 겁니다!
+Quit,나가기
+ShareMessage,저는 파이프들과 함께 더 똑똑해지고 있어요😍! 다음에서 다운로드:
+Enter,들어가기
+SelectChapter,챕터 선택
+FTUE_Chapters,여기서 챕터들을 변경하실 수 있습니다!
+LevelsXY,레벨 1-20
+Buy,구매
+Refill,리필
+Get3Hints,힌트 3개 얻기!
+Get3IMs,움직임 무한 3개 얻기!
+GetFullHearts,하트를 5까지 리필하세요!
+MoreOffers,더 많은 제안들!
+LockersExplain,레벨 2에서 잠금 해제됩니다
+Rating,파이프들은 2명의 열정적인 개발자들에 의해 개발되었습니다! 저희 게임을 평가해주셔서 여기서 완성된 작업을 가다듬어주세요. 감사합니다! <3
+FTUE_Rotate2,탭해서 회전시키세요!
+FTUE_AllPipes2,모든 파이프들을 사용해주세요!
+FTUE_WaterToPlants2,제한된 숫자의 움직임만 가능합니다!
+FTUE_Undo2,탭해서 실행 취소해주세요!
+FTUE_Hint2,힌트를 사용하시려면 탭하세요!
+FTUE_IM2,무한 개의 움직임을 사용하시려면 탭하세요!
+FTUE_Card2,카드가 수집되었습니다!
+FTUE_Collection1_2,수집품을 보시려면 탭하세요!
+FTUE_Store2,상점에서 더 많은 정보를 알아보세요!
+FTUE_Collection2_2,카드들을 탭해서 보세요!
+FTUE_Quests2,퀘스트를 완료하시고 보상을 받으세요!
+FTUE_Quest24_2,24시간마다 새로운 퀘스트들!
+FTUE_Chapters_2,챕터를 선택하시려면 탭하세요!
+ChooseTwoGifts,2개의 선물을 선택하세요!
+TwoMoreGifts,2개의 선물이 더 있습니다!
+OutOfHearts,하트가 부족합니다!
+TimeToNextHeart,다음 하트 충전까지 시간:
+RefillHearts,하트 충전
+RateUs,저희를 평가해주세요
+LoadCloudData,최근에 플레이하던 레벨을 불러오시겠습니까?
+Retry,다시 시도

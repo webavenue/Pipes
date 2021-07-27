@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "493059654277-5u1c6adued85dui9bh45t7k48jnl2map.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZCCmPCvqWAt-66KMfw5VZ24TZSEI3RqA"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:493059654277:ios:d62549e45a51c44ac21fec", 
+        "android_client_info": {
+          "package_name": "com.infinitygames.pipes"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "pipes-c5546.appspot.com", 
+    "project_id": "pipes-c5546", 
+    "firebase_url": "https://pipes-c5546.firebaseio.com", 
+    "project_number": "493059654277"
+  }
+}

@@ -1,0 +1,185 @@
+﻿ConsentTitle,Hemos actualizado nuestros términos
+ConsentMainText,Para continuar jugando, debes confirmar que estás de acuerdo con nuestros términos de servicio y que has leído nuestra política de privacidad
+ConsentToS,Términos de servicio
+ConsentPP,Política de privacidad
+ConsentTitleYes,Verás mejores anuncios
+ConsentTextYes,¡Genial! Esperamos que los anuncios te parezcan relevantes y apropiados para tus intereses. Si alguna vez cambias de opinión, puedes revocar este consentimiento saliendo de la Personalización de Anuncios en Ajustes/Google/Anuncios en tu dispositivo y así comenzarás a recibir anuncios aleatorios.
+ConsentTitleNo,Verás anuncios aleatorios
+ConsentTextNo,No recolectaremos tus datos para anuncios personalizados en esta aplicación. No obstante, puedes autorizarnos a entregarte anuncios seleccionados en una aplicación diferente. En ese caso, recolectaremos tus datos en otra aplicación y allí te proveeremos una experiencia personalizada de anuncios.
+Close,CERRAR
+Reject,Rechazar
+Accept,ACEPTAR
+Continue,Continuar
+Notif0Title,Es hora de...
+Notif0Text,¡Conectar las tuberías!
+Notif1Title,¡Tu cerebro me extraña!
+Notif1Text,¡Recarga tus corazones y ven a jugar!
+Notif2Title,¡Mejora tus habilidades mentales!
+Notif2Text,¿Estás listo para el desafío de las tuberías?
+Notif3Title,¿Eres lo suficientemente listo?
+Notif3Text,¡Te reto a completar los niveles más difíciles!
+USEAST,Este de EEUU
+CANADA,Canadá
+MEXICO,México
+BRAZIL,Brasil
+UK,Reino Unido
+GERMANY,Alemania
+FRANCE,Francia
+SPAIN,España
+ITALY,Italia
+GREECE,Grecia
+TURKEY,Turquía
+EGYPT,Egipto
+SAUDI,Arabia Saudita
+KENYA,Kenia
+IRAN,Irán
+INDIA,India
+THAILAND,Tailandia
+SINGAPORE,Singapur
+AUSTRALIA,Australia
+NEWZEALAND,Nueva Zelanda
+TAIWAN,Taiwán
+CHINA,China
+KOREA,Corea
+JAPAN,Japón
+RUSSIA,Rusia
+USWEST,Oeste de EEUU
+DailyQuests,Misiones diarias
+Reward,Recompensa
+Coins,12 monedas
+InfiniteHearts,12 horas de corazones infinitos
+InfiniteMoves,12 movimientos infinitos
+Hints,12 pistas
+Easy,Fácil
+Medium,Intermedio
+Hard,Difícil
+Claimed,¡Reclamado!
+Date,Viernes 26 de marzo
+Saturday,Sábado
+Sunday,Domingo
+Monday,Lunes
+Tuesday,Martes
+Wednesday,Miércoles
+Thursday,Jueves
+Friday,Viernes
+January,Enero
+February,Febrero
+March,Marzo
+April,Abril
+May,Mayo
+June,Junio
+July,Julio
+August,Agosto
+September,Septiembre
+October,Octubre
+November,Noviembre
+December,Diciembre
+Q_RotateTiles,Rota 100 piezas
+Q_FinishLevels,Gana 100 niveles
+Q_EarnCoins,Gana 100 monedas
+Q_EarnInfiniteHearts,Gana 100 minutos de corazones infinitos
+Q_EarnHints,Gana 100 pistas
+Q_EarnInfiniteMove,Gana 100 movimientos infinitos
+Q_WinLevelsContinuously,Gana 100 niveles sin perder
+Q_EarnCards,Gana 100 cartas en la colección
+Q_EarnStars,Gana 100 estrellas
+Q_UsePowerUps,Usa 100 pistas o movimientos infinitos
+Q_WinWithoutUndo,Gana 100 niveles sin usar el botón deshacer
+Q_FillWells,Llena 100 pozos
+Q_GrowPlants,Levanta 100 plantas
+Q_WinWith3Stars,Gana 100 niveles con 3 estrellas
+Q_FillPipes,Llena 100 tuberías
+Q_OpenChests,Abre 100 cofres
+Q_OpenStarChest,Abre 100 cofres de estrella
+Q_OpenLevelChest,Abre 100 cofres de nivel
+Q_ReachSpecificLevel,Alcanza el nivel 100
+Q_PlayLevelsForSomeSeconds,Juega niveles por un total de 100 minutos
+Q_EarnScore,Anota un total 100 con tus puntuaciones
+Q_PlayLevelsForSomeSecondsContinuously,Juega niveles por un total de 100 minutos sin cerrar el juego
+TapOnAllShapes,¡Toca todas las figuras!
+Awesome,¡Increíble!
+Claim,Reclamar
+Collection,Colección
+FinishLevelX,Termina el nivel 12
+Settings,Ajustes
+Sounds,Sonidos
+Music,Música
+Vibration,Vibración
+Achievements,Logros
+Full,Completo
+Store,Tienda
+NoAds,Paga $12 para quitar los anuncios del juego
+RestorePurchases,Restaurar compras
+XHours,12 horas
+Beginner,Paquete de principiante
+Super,Paquete súper
+Mega,Paquete mega
+Giant,Paquete gigante
+Champion,Paquete de campeón
+Legendary,Paquete legendario
+Sale,En oferta
+MostPopular,Más popular
+BestValue,Mejor valor
+LevelX,Nivel 12
+Share,Compartir
+OutOfMoves,Sin movimientos
+GetXMoves,Obtén 5 movimientos para seguir
+VideoAd,Video
+PlayOn,Continuar jugando
+LevelFailed,¡Nivel fallido!
+TryAgain,Intentar de nuevo
+NoAdsTitle,ANUNCIOS
+NoAdsButton,SIN ANUNCIOS
+FTUE_Rotate,¡Toca las tuberías para rotarlas!
+FTUE_AllPipes,¡Debes usar todas las tuberías!
+FTUE_WaterToPlants,¡Nutre todas las plantas con los movimientos que tienes!
+FTUE_Undo,¡Siempre puedes deshacer tu último movimiento!
+FTUE_Hint,¡Puedes usar una pista para resolver una parte del nivel!
+FTUE_IM,¡Puedes hacer que tus movimientos sean infinitos!
+FTUE_Card,¡Has recolectado una carta!
+FTUE_Collection1,¡Siempre puedes ver tus cartas en tu colección!
+FTUE_Store,¡Puedes encontrar más en la tienda!
+FTUE_Collection2,¡Bienvenido a tu colección! ¡Puedes tocar cualquiera de tus cartas para verla!
+FTUE_Quests,¡Completa diferentes misiones y obtén varias recompensas!
+FTUE_Quest24,¡Habrá nuevas misiones cada 24 horas!
+TapShowBoard,¡Toca aquí para ver la tabla!
+TapToReturn,¡Toca para volver!
+TapToSkip,¡Toca para saltar!
+AreYouSure,¿Estás seguro?
+YouLoseHeart,¡Perderás un corazón!
+YouWontLoseHeart,¡No perderás ningún corazón!
+Quit,Salir
+ShareMessage,¡Me estoy poniendo más listo con Pipes 😍! Descarga desde:
+Enter,Ingresar
+SelectChapter,Seleccionar capítulo
+FTUE_Chapters,¡Aquí puedes cambiar entre capítulos!
+LevelsXY,Niveles 1 al 20
+Buy,Comprar
+Refill,Recargar
+Get3Hints,¡Obtener 3 pistas!
+Get3IMs,¡Obtener 3 movimientos infinitos!
+GetFullHearts,¡Recargar tus corazones hasta 5!
+MoreOffers,¡Más ofertas!
+LockersExplain,Desbloqueo en nivel 2
+Rating,¡Tuberías fue desarrollado por un equipo de dos desarrolladores apasionados! Abrillanta el trabajo que hicimos aquí calificando nuestro juego. ¡Gracias! <3
+FTUE_Rotate2,¡Toca para rotar!
+FTUE_AllPipes2,¡Usa todas las tuberías!
+FTUE_WaterToPlants2,¡Tienes movimientos limitados!
+FTUE_Undo2,¡Toca para deshacer!
+FTUE_Hint2,¡Toca para usar una pista!
+FTUE_IM2,¡Toca para usar un movimiento infinito!
+FTUE_Card2,¡Carta recolectada!
+FTUE_Collection1_2,¡Toca para ver la colección!
+FTUE_Store2,¡Encuentra más en la tienda!
+FTUE_Collection2_2,¡Toca las cartas para verlas!
+FTUE_Quests2,¡Completa misiones y recibe recompensas!
+FTUE_Quest24_2,¡Nuevas misiones cada 24 horas!
+FTUE_Chapters_2,¡Toca para seleccionar un capítulo!
+ChooseTwoGifts,¡Elige 2 regalos!
+TwoMoreGifts,¡2 regalos más!
+OutOfHearts,¡Sin corazones!
+TimeToNextHeart,Hora del siguiente corazón:
+RefillHearts,Recargar corazones
+RateUs,Califícanos
+LoadCloudData,¿Cargar último nivel guardado?
+Retry,Intentar de nuevo

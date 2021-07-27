@@ -1,0 +1,44 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:amazon="http://schemas.amazon.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="universal.tools.notifications"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <!-- UTNotifications common -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- Restore Scheduled Notifications On Reboot -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- Amazon Device Messaging -->
+    <permission android:name="${applicationId}.permission.RECEIVE_ADM_MESSAGE" android:protectionLevel="signature" />
+    <uses-permission android:name="${applicationId}.permission.RECEIVE_ADM_MESSAGE" />
+    <uses-permission android:name="com.amazon.device.messaging.permission.RECEIVE" />
+
+    <application android:allowBackup="true">
+        <!-- UTNotifications common -->
+        <receiver android:name="universal.tools.notifications.AlarmBroadcastReceiver" />
+        <service android:name="universal.tools.notifications.NotificationIntentService" />
+
+        <!-- Restore Scheduled Notifications On Reboot -->
+        <receiver android:name="universal.tools.notifications.ScheduledNotificationsRestorer">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Amazon Device Messaging -->
+        <amazon:enable-feature android:name="com.amazon.device.messaging" android:required="false" />
+        <receiver android:name="universal.tools.notifications.AdmBroadcastReceiver" android:permission="com.amazon.device.messaging.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.amazon.device.messaging.intent.REGISTRATION" />
+                <action android:name="com.amazon.device.messaging.intent.RECEIVE" />
+                <category android:name="${applicationId}" />
+            </intent-filter>
+        </receiver>
+        <service android:name="universal.tools.notifications.AdmIntentService" android:exported="false" />
+    </application>
+</manifest>

@@ -1,0 +1,185 @@
+﻿ConsentTitle,Nous avons mis à jour nos conditions
+ConsentMainText,"Pour continuer à jouer, vous devez confirmer que vous acceptez nos Conditions d'utilisation et que vous avez lu notre Politique de Confidentialité"
+ConsentToS,Conditions d'utilisation
+ConsentPP,Politique de Confidentialité
+ConsentTitleYes,Vous verrez de meilleures annonces
+ConsentTextYes,"Très bien! Nous espérons que vous trouverez nos annonces pertinentes et adaptées à vos centres d'intérêts. Si jamais vous changez d'avis, vous pouvez retirer ce consentement en désactivant la personnalisation des annonces dans Paramètres/Google/Annonces sur votre appareil et commencer à recevoir des annonces aléatoires."
+ConsentTitleNo,Vous verrez des annonces aléatoires
+ConsentTextNo,"Nous ne collecterons pas vos données pour la publicité personnalisée dans cette application. Néanmoins, vous pouvez nous autoriser à vous proposer des annonces organisées dans une autre application. Dans ce cas, nous collecterons vos données dans cette autre application et vous fournirons une expérience publicitaire personnalisée."
+Close,FERMER
+Reject,Rejeter
+Accept,ACCEPTER
+Continue,Continuer
+Notif0Title,Il est temps de...
+Notif0Text,Connectez les tuyaux!
+Notif1Title,Je manque à ton cerveau!
+Notif1Text,Remplissez vos cœurs et venez jouer!
+Notif2Title,Améliorez vos compétences mentales!
+Notif2Text,Êtes-vous prêt pour le défi des Tuyaux?
+Notif3Title,Êtes-vous assez intelligent?
+Notif3Text,Je vous mets au défi de terminer les niveaux les plus difficiles!
+USEAST,Est des États-Unis
+CANADA,Canada
+MEXICO,Mexique
+BRAZIL,Brésil
+UK,Royaume
+GERMANY,Allemagne
+FRANCE,France
+SPAIN,Espagne
+ITALY,Italie
+GREECE,Grèce
+TURKEY,Turquie
+EGYPT,Egypte
+SAUDI,Arabie
+KENYA,Kenya
+IRAN,Iran
+INDIA,Inde
+THAILAND,Thaïlande
+SINGAPORE,Singapour
+AUSTRALIA,Australie
+NEWZEALAND,Nouvelle-Zélande
+TAIWAN,Taiwan
+CHINA,China
+KOREA,Corée
+JAPAN,Japon
+RUSSIA,Russie
+USWEST,Ouest des Etats-Unis
+DailyQuests,Quêtes Journalières
+Reward,Récompense
+Coins,12 Pièces
+InfiniteHearts,12 Heures de Cœur Infini
+InfiniteMoves,12 Mouvements Infinis
+Hints,12 Conseils
+Easy,Facile
+Medium,Moyen
+Hard,Difficile
+Claimed,Réclamé!
+Date,Vendredi, 26 mars
+Saturday,Samedi
+Sunday,Dimanche
+Monday,Lundi
+Tuesday,Mardi
+Wednesday,Mercredi
+Thursday,Jeudi
+Friday,Vendredi
+January,Janvier
+February,Février
+March,Mars
+April,Avril
+May,Peut
+June,Juin
+July,Juillet
+August,Août
+September,Septembre
+October,Octobre
+November,Novembre
+December,Décembre
+Q_RotateTiles,Faites pivoter 100 tuiles
+Q_FinishLevels,Gagnez 100 niveaux
+Q_EarnCoins,Gagnez 100 Pièces
+Q_EarnInfiniteHearts,Gagnez 100 minutes de Cœur Infini
+Q_EarnHints,Gagnez 100 Conseils
+Q_EarnInfiniteMove,Gagnez 100 Mouvements Infinis
+Q_WinLevelsContinuously,Gagnez 100 niveaux sans perdre
+Q_EarnCards,Gagnez 100 cartes dans la collection
+Q_EarnStars,Gagnez 100 étoiles
+Q_UsePowerUps,Utilisez 100 Astuces ou Mouvements Infinis
+Q_WinWithoutUndo,Gagnez 100 niveaux sans utiliser le bouton Annuler
+Q_FillWells,Remplissez 100 puits
+Q_GrowPlants,Cultivez 100 plantes
+Q_WinWith3Stars,Gagnez 100 Niveaux avec 3 étoiles
+Q_FillPipes,Remplissez 100 Tuyaux
+Q_OpenChests,Ouvrez 100 Coffres
+Q_OpenStarChest,Ouvrez les Coffres 100 Étoiles
+Q_OpenLevelChest,Ouvrez les Coffres de 100 Niveaux
+Q_ReachSpecificLevel,Atteignez le niveau 100
+Q_PlayLevelsForSomeSeconds,Niveaux de jeu pour un total de 100 minutes
+Q_EarnScore,Gagnez un total de 100 avec vos scores
+Q_PlayLevelsForSomeSecondsContinuously,Jouez des niveaux pour un total de 100 minutes sans fermer le jeu
+TapOnAllShapes,Appuyez sur toutes les formes!
+Awesome,Fantastique!
+Claim,Réclamez
+Collection,Collection
+FinishLevelX,Niveau de finition 12
+Settings,Paramètres
+Sounds,Son
+Music,Musique
+Vibration,Vibration
+Achievements,Réalisations
+Full,Plein
+Store,Stockez
+NoAds,Payez 12$ pour supprimer les publicités du jeu
+RestorePurchases,Restaurez les Achats
+XHours,12 Heures
+Beginner,Paquet débutant
+Super,Super Paquet
+Mega,Mega Paquet
+Giant,Paquet Géant
+Champion,Paquet du Champion
+Legendary,Paquet Légendaire
+Sale,Vente
+MostPopular,Plus Populaires
+BestValue,Meilleure Valeur
+LevelX,Niveau 12
+Share,Partager
+OutOfMoves,Mouvements
+GetXMoves,Obtenez 5 Coups pour continuer
+VideoAd,Vidéo
+PlayOn,Jouez Sur
+LevelFailed,Niveau échoué!
+TryAgain,Essayez encore
+NoAdsTitle,ANNONCE
+NoAdsButton,PAS D'ANNONCES
+FTUE_Rotate,Appuyez sur les tuyaux pour les faire tourner!
+FTUE_AllPipes,Vous devez utiliser tous les Tuyaux!
+FTUE_WaterToPlants,Arrosez toutes les plantes avec le nombre de mouvements que vous avez!
+FTUE_Undo,Vous pouvez toujours annuler votre dernier coup!
+FTUE_Hint,Vous pouvez utiliser l'indice pour résoudre une partie du niveau!
+FTUE_IM,Vous pouvez faire vos mouvements infinis!
+FTUE_Card,Vous avez recueilli une Carte!
+FTUE_Collection1,Vous pouvez toujours voir vos Cartes dans votre Collection!
+FTUE_Store,Vous pouvez trouver plus dans le magasin!
+FTUE_Collection2,Bienvenue dans votre collection! Vous pouvez appuyer sur l'une de vos cartes pour les voir!
+FTUE_Quests,Terminez différentes quêtes et obtenez diverses récompenses!
+FTUE_Quest24,De nouvelles quêtes seront là toutes les 24 heures!
+TapShowBoard,Appuyez ici pour voir le tableau!
+TapToReturn,Appuyez pour revenir!
+TapToSkip,Appuyez pour passer!
+AreYouSure,Êtes-vous sûr?
+YouLoseHeart,Vous perdrez 1 Cœur!
+YouWontLoseHeart,Vous ne perdrez pas de Cœur!
+Quit,Quitter
+ShareMessage,Je deviens plus intelligent avec Pipes 😍! Téléchargez à partir de:
+Enter,Entrer
+SelectChapter,Sélectionnez un Chapitre
+FTUE_Chapters,Vous pouvez basculer entre les chapitres ici!
+LevelsXY,Niveaux 1-20
+Buy,Acheter
+Refill,Recharger
+Get3Hints,Obtenez 3 conseils!
+Get3IMs,Obtenez 3 Mouvements infinis!
+GetFullHearts,Rechargez vos Cœurs à 5!
+MoreOffers,Plus d'offres!
+LockersExplain,Débloque au niveau 2
+Rating,Pipes a été développé par une équipe de 2 développeurs passionnés! Appréciez le travail qui a été fait ici en évaluant notre jeu. Merci! <3
+FTUE_Rotate2,Appuyez pour faire pivoter!
+FTUE_AllPipes2,Utilisez tous les tuyaux!
+FTUE_WaterToPlants2,Vous avez des mouvements limités!
+FTUE_Undo2,Appuyez pour annuler!
+FTUE_Hint2,Appuyez pour utiliser un indice!
+FTUE_IM2,Appuyez pour utiliser un mouvement infini!
+FTUE_Card2,Carte collectée!
+FTUE_Collection1_2,Appuyez pour voir la collection!
+FTUE_Store2,En savoir plus dans le magasin!
+FTUE_Collection2_2,Appuyez sur les cartes pour les voir!
+FTUE_Quests2,Terminez des quêtes et obtenez des récompenses!
+FTUE_Quest24_2,Nouvelles quêtes toutes les 24 heures!
+FTUE_Chapters_2,Appuyez pour sélectionner le chapitre!
+ChooseTwoGifts,Choisissez 2 Cadeaux!
+TwoMoreGifts,2 autres cadeaux!
+OutOfHearts,Hors de Cœurs!
+TimeToNextHeart,Temps pour le prochain cœur:
+RefillHearts,Recharge des Cœurs
+RateUs,Évaluez-nous
+LoadCloudData,Chargez le dernier niveau sauvegardé?
+Retry,Essayza encore

@@ -1,0 +1,185 @@
+﻿ConsentTitle,Olemme päivittäneet ehtomme
+ConsentMainText,Jotta voit jatkaa pelaamista, sinun täytyy vahvistaa, että hyväksyt Palveluehtomme ja olet lukenut Tietosuojaselosteemme
+ConsentToS,Palveluehdot
+ConsentPP,Tietosuojaseloste
+ConsentTitleYes,Näet parempia mainoksia
+ConsentTextYes,Mahtavaa! Toivomme, että koet mainoksemme oleellisiksi ja sinulle kiinnostaviksi. Jos muutat mielesi, voit peruuttaa suostumuksen poistamalla Mainosten räätälöintiasetuksen laitteesi asetuksista/Googlesta, jolloin sinulle näytetään satunnaisia mainoksia.
+ConsentTitleNo,Näet satunnaisia mainoksia
+ConsentTextNo,Me emme kerää tietojasi räätälöityyn mainontaan tässä sovelluksessa. Voit kuitenkin antaa meille luvan näyttää sinulle räätälöityjä mainoksia toisessa sovelluksessa. Tässä tapauksessa keräämme tietojasi tuossa toisessa sovelluksessa ja tarjoamme sinulle räätälöityjä mainoksia siellä.
+Close,SULJE
+Reject,Hylkää
+Accept,HYVÄKSY
+Continue,Jatka
+Notif0Title,On aika...
+Notif0Text,Yhdistää putket!
+Notif1Title,Aivosi kaipaavat minua!
+Notif1Text,Täytä sydämesi ja tule pelaamaan!
+Notif2Title,Paranna aivotaitojasi!
+Notif2Text,Oletko valmis Putkihaasteeseen?
+Notif3Title,Oletko tarpeeksi fiksu?
+Notif3Text,Haastan sinut suorittamaan vaikeimmat tasot!
+USEAST,Itä-Yhdysvallat
+CANADA,Kanada
+MEXICO,Meksiko
+BRAZIL,Brasilia
+UK,Iso-Britannia
+GERMANY,Saksa
+FRANCE,Ranska
+SPAIN,Espanja
+ITALY,Italia
+GREECE,Kreikka
+TURKEY,Turkki
+EGYPT,Egypti
+SAUDI,Saudi-Arabia
+KENYA,Kenia
+IRAN,Iran
+INDIA,Intia
+THAILAND,Thaimaa
+SINGAPORE,Singapore
+AUSTRALIA,Australia
+NEWZEALAND,Uusi-Seelanti
+TAIWAN,Taiwan
+CHINA,Kiina
+KOREA,Korea
+JAPAN,Japani
+RUSSIA,Venäjä
+USWEST,Länsi-Yhdysvallat
+DailyQuests,Päivittäiset tehtävät
+Reward,Palkinto
+Coins,12 kolikkoa
+InfiniteHearts,12 tuntia loputtomat sydämet
+InfiniteMoves,12 loputonta liikettä
+Hints,12 vihjettä
+Easy,Helppo
+Medium,Keskitaso
+Hard,Vaikea
+Claimed,Lunastettu!
+Date,Perjantai 26. maaliskuuta
+Saturday,Lauantai
+Sunday,Sunnuntai
+Monday,Maanantai
+Tuesday,Tiistai
+Wednesday,Keskiviikko
+Thursday,Torstai
+Friday,Perjantai
+January,Tammikuu
+February,Helmikuu
+March,Maaliskuu
+April,Huhtikuu
+May,Toukokuu
+June,Kesäkuu
+July,Heinäkuu
+August,Elokuu
+September,Syyskuu
+October,Lokakuu
+November,Marraskuu
+December,Joulukuu
+Q_RotateTiles,Kierrä 100 laattaa
+Q_FinishLevels,Voita 100 tasoa
+Q_EarnCoins,Ansaitse 100 kolikkoa
+Q_EarnInfiniteHearts,Ansaitse 100 minuuttia loputtomia sydämiä
+Q_EarnHints,Ansaitse 100 vihjettä
+Q_EarnInfiniteMove,Ansaitse 100 loputonta liikettä
+Q_WinLevelsContinuously,Voita 100 tasoa häviämättä
+Q_EarnCards,Ansaitse 100 keräilykorttia
+Q_EarnStars,Ansaitse 100 tähteä
+Q_UsePowerUps,Käytä 100 vihjettä tai loputonta liikettä
+Q_WinWithoutUndo,Voita 100 tasoa käyttämättä Kumoa-painiketta
+Q_FillWells,Täytä 100 kaivoa
+Q_GrowPlants,Kasvata 100 kasvia
+Q_WinWith3Stars,Voita 100 tasoa 3 tähdellä
+Q_FillPipes,Täytä 100 putkea
+Q_OpenChests,Avaa 100 arkkua
+Q_OpenStarChest,Avaa 100 tähtiarkkua
+Q_OpenLevelChest,Avaa 100 tasoarkkua
+Q_ReachSpecificLevel,Saavuta taso 100
+Q_PlayLevelsForSomeSeconds,Pelaa tasoja yhteensä 100 minuuttia
+Q_EarnScore,Ansaitse yhteensä 100 pistettä
+Q_PlayLevelsForSomeSecondsContinuously,Pelaa tasoja yhteensä 100 minuuttia sulkematta peliä
+TapOnAllShapes,Napauta kaikkia muotoja!
+Awesome,Mahtavaa!
+Claim,Lunasta
+Collection,Kokoelma
+FinishLevelX,Suorita taso 12
+Settings,Asetukset
+Sounds,Äänet
+Music,Musiikki
+Vibration,Värinä
+Achievements,Saavutukset
+Full,Täysi
+Store,Kauppa
+NoAds,Maksa 12 $ poistaaksesi mainokset pelistä
+RestorePurchases,Palauta ostokset
+XHours,12 tuntia
+Beginner,Aloittelijan paketti
+Super,Superpaketti
+Mega,Megapaketti
+Giant,Valtava paketti
+Champion,Mestarin paketti
+Legendary,Legendaarinen paketti
+Sale,Ale
+MostPopular,Suosituimmat
+BestValue,Arvokkain
+LevelX,Taso 12
+Share,Jaa
+OutOfMoves,Ei enää siirtoja
+GetXMoves,Hanki 5 siirtoa jatkaaksesi
+VideoAd,Video
+PlayOn,Jatka pelaamista
+LevelFailed,Taso epäonnistui!
+TryAgain,Yritä uudelleen
+NoAdsTitle,MAINOKSET
+NoAdsButton,EI MAINOKSIA
+FTUE_Rotate,Napauta putkia kiertääksesi niitä!
+FTUE_AllPipes,Sinun täytyy käyttää kaikki putket!
+FTUE_WaterToPlants,Kastele kaikki kasvit jäljellä olevilla siirroilla!
+FTUE_Undo,Voit aina kumota edellisen siirron!
+FTUE_Hint,Voit käyttää vihjettä ratkaistaksesi osan tasosta!
+FTUE_IM,Voit tehdä siirroistasi loputtomia!
+FTUE_Card,Olet löytänyt keräilykortin!
+FTUE_Collection1,Voit katsoa korttejasi kokoelmasta!
+FTUE_Store,Löydät lisää kaupasta!
+FTUE_Collection2,Tervetuloa kokoelmaan! Voit napauttaa mitä tahansa korttia nähdäksesi sen!
+FTUE_Quests,Suorita erilaisia tehtäviä ja saat erilaisia palkintoja!
+FTUE_Quest24,Uusia tehtäviä on saatavilla 24 tunnin välein!
+TapShowBoard,Napauta palataksesi peliin!
+TapToReturn,Napauta palataksesi!
+TapToSkip,Napauta ohittaaksesi!
+AreYouSure,Oletko varma?
+YouLoseHeart,Menetät 1 sydämen!
+YouWontLoseHeart,Et menetä sydäntä!
+Quit,Lopeta
+ShareMessage,Alan tulla fiksummaksi Pipes-pelin myötä 😍! Lataa täältä:
+Enter,Siirry
+SelectChapter,Valitse kappale
+FTUE_Chapters,Voit vaihtaa tästä kappaleiden välillä!
+LevelsXY,Tasot 1-20
+Buy,Osta
+Refill,Täytä
+Get3Hints,Hanki 3 vihjettä!
+Get3IMs,Hanki 3 loputonta siirtoa!
+GetFullHearts,Täytä 5 sydäntä!
+MoreOffers,Lisää tarjouksia!
+LockersExplain,Avautuu tasolla 2
+Rating,Pipes on kahden intohimoisen kehittäjän työn tulos! Arvosta tekemäämme työtä arvostelemalla peli. Kiitos! <3 
+FTUE_Rotate2,Napauta kiertääksesi!
+FTUE_AllPipes2,Käytä kaikki putket!
+FTUE_WaterToPlants2,Sinulla on rajallinen määrä siirtoja!
+FTUE_Undo2,Napauta kumotaksesi!
+FTUE_Hint2,Napauta käyttääksesi vihjeen!
+FTUE_IM2,Napauta käyttääksesi loputtoman siirron!
+FTUE_Card2,Kortti kerätty!
+FTUE_Collection1_2,Napauta nähdäksesi kokoelman!
+FTUE_Store2,Katso lisää kaupasta!
+FTUE_Collection2_2,Napauta kortteja nähdäksesi ne!
+FTUE_Quests2,Suorita tehtäviä ja saat palkintoja!
+FTUE_Quest24_2,Uusia tehtäviä 24 tunnin välein!
+FTUE_Chapters_2,Napauta valitaksesi kappaleen!
+ChooseTwoGifts,Valitse 2 lahjaa!
+TwoMoreGifts,2 lahjaa lisää!
+OutOfHearts,Sydämet loppu!
+TimeToNextHeart,Aikaa seuraavaan sydämeen:
+RefillHearts,Täytä sydämet
+RateUs,Arvostele meidät
+LoadCloudData,Lataa viimeksi tallennettu taso?
+Retry,Yritä uudelleen

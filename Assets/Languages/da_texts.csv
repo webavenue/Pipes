@@ -1,0 +1,185 @@
+ConsentTitle,Vi har opdateret vores betingelser.
+ConsentMainText,For at fortsætte med at spille, skal acceptere vores betingelser for brug, og have læst vores fortrolighedspolitik.
+ConsentToS,Betingelser for brug
+ConsentPP,Fortrolighedspolitik
+ConsentTitleYes,Du vil se bedre reklamer
+ConsentTextYes,Godt! Vi håber du vil finde vores reklamer relevante og skræddersyet til dine interesser. Hvis du ændre mening, kan du tilbagetrække din bekræftelse ved at fravælge Reklame Personalisering under indstillinger/googles/reklamer på din enhed, og modtage tilfælde reklamer.
+ConsentTitleNo,Du vil nu se tilfældige reklamer
+ConsentTextNo,Vi vil ikke samle din data til personaliserede reklamering i denne app. Dog kan du give os tilladelse til at give dig specifikke reklamer i en anden app. I dette tilfælde vil vi samle din data i den anden app, og tilbyde dig en personaliserede reklameringsoplevelse der. 
+Close,LUK
+Reject,Afvis
+Accept,ACCEPTERE
+Continue,Fortsæt
+Notif0Title,Det er tid til...
+Notif0Text,Tilslutte rørerne!
+Notif1Title,Din hjerne savner mig!
+Notif1Text,Genopfyld dine hjerter og kom og spil!
+Notif2Title,Forbedre dine mentale styrker!
+Notif2Text,Er du klar på Rør udfordringerne?
+Notif3Title,Er du klog nok?
+Notif3Text,Jeg udfordre dig til at klare det sværeste niveau!
+USEAST,US Øst
+CANADA,Canada
+MEXICO,Mexico
+BRAZIL,Brasilien
+UK,Storbritannien
+GERMANY,Tyskland
+FRANCE,Frankrig
+SPAIN,Spanien
+ITALY,Italien
+GREECE,Grækenland
+TURKEY,Tyrkiet
+EGYPT,Egypten
+SAUDI,Saudi Arabien
+KENYA,Kenya
+IRAN,Iran
+INDIA,Indien
+THAILAND,Thailand
+SINGAPORE,Singapore
+AUSTRALIA,Australien
+NEWZEALAND,New Zealand
+TAIWAN,Taiwan
+CHINA,Kina
+KOREA,Korea
+JAPAN,Japan
+RUSSIA,Rusland
+USWEST,US Vest
+DailyQuests,Daglige Missioner
+Reward,Belønning
+Coins,12 mønter
+InfiniteHearts,12 timers uendelige hjerter
+InfiniteMoves,12 Unendelige ryk
+Hints,12 tips
+Easy,Let
+Medium,Middel
+Hard,Svært
+Claimed,Opkrævet!
+Date,Fredag, 26 Marts
+Saturday,Lørdag
+Sunday,Søndag
+Monday,Mandag
+Tuesday,Tirsdag
+Wednesday,Onsdag
+Thursday,Torsdag
+Friday,Fredag
+January,Januar
+February,Februar
+March,Marts
+April,April
+May,Maj
+June,Juni
+July,Juli
+August,August
+September,September
+October,Oktober
+November,November
+December,December
+Q_RotateTiles,Roter 100 fliser
+Q_FinishLevels,Vind 100 niveauer
+Q_EarnCoins,Tjen 100 mønter
+Q_EarnInfiniteHearts,Tjen 100 minutters uendelige hjerter
+Q_EarnHints,Tjen 100 tips
+Q_EarnInfiniteMove,Tjen 100 uendelige bevægelser
+Q_WinLevelsContinuously,Vind 100 niveauer uden at tabe
+Q_EarnCards,Tjen 100 kort i Samlingen
+Q_EarnStars,Tjen 100 Stjerner
+Q_UsePowerUps,Brug 100 tips eller uendelige bevægelser
+Q_WinWithoutUndo,Vind 100 niveauer uden at bruge Fortryd knappen
+Q_FillWells,Fyld 100 brønde
+Q_GrowPlants,Gro 100 planter
+Q_WinWith3Stars,Vind 100 niveauer med 3 stjerner
+Q_FillPipes,Fyld 100 rør
+Q_OpenChests,Åben 100 kister
+Q_OpenStarChest,Åben 100 stjernekister
+Q_OpenLevelChest,Åben 100 niveaukister
+Q_ReachSpecificLevel,Opnå level 100
+Q_PlayLevelsForSomeSeconds,Spil niveauer for i alt 100 minutter.
+Q_EarnScore,Opnå i alt 100 med dine scores
+Q_PlayLevelsForSomeSecondsContinuously,Spil niveauer for i alt 100 minutter uden at lukke spillet
+TapOnAllShapes,Klik på alle former!
+Awesome,Fedt!
+Claim,Opkræv
+Collection,Samling
+FinishLevelX,Klar niveau 12
+Settings,Indstillinger
+Sounds,Lyd
+Music,Musik
+Vibration,Vibration
+Achievements,Præstationer
+Full,Fuld
+Store,Butik
+NoAds,Betal $12 for at fjerne reklamer fra spillet.
+RestorePurchases,Gendan Køb
+XHours,12 Timer
+Beginner,Begynderpakke
+Super,Super Pakke
+Mega,Mega Pakke
+Giant,Gigantisk Pakke
+Champion,Mesterpakken
+Legendary,Legendarisk Pakke
+Sale,Salg
+MostPopular,Mest populære
+BestValue,Bedste værdi
+LevelX,Level 12
+Share,Del
+OutOfMoves,Ikke flere bevægelser
+GetXMoves,Få 5 bevægelser mere for at fortsætte
+VideoAd,Video
+PlayOn,Fortsæt med spillet
+LevelFailed,Niveau mislykket!
+TryAgain,Prøv igen
+NoAdsTitle,REKLAMER
+NoAdsButton,INGEN REKLAMER
+FTUE_Rotate,Klik på rørerne for at rotere dem!
+FTUE_AllPipes,Du skal bruge alle rør!
+FTUE_WaterToPlants,Vand alle planterne med det antal ryk du har!
+FTUE_Undo,Du kan altid fortryde dit sidste ryk!
+FTUE_Hint,Du kan altid bruge Tips for at løse en del af niveauet!
+FTUE_IM,Du kan altid gøre dine bevægelser uendelige!
+FTUE_Card,Du har samlet et kort!
+FTUE_Collection1,Du kan altid se dine kort i din Samling!
+FTUE_Store,Du kan finde mere i Butikken!
+FTUE_Collection2,Velkommen til din Samling! Du kan klikke på hvilket som helst kort for at se det!
+FTUE_Quests,Klar forskellige opgaver og få varierende belønninger!
+FTUE_Quest24,Nye opgaver vil blive vist her hver 24 time!
+TapShowBoard,Klik her for at se stillingen!
+TapToReturn,Klik for at vende tilbage!
+TapToSkip,Klik for at springe over!
+AreYouSure,Er du sikker?
+YouLoseHeart,Du vil miste et hjerte!
+YouWontLoseHeart,Du vil ikke miste et hjerte!
+Quit,Forlad
+ShareMessage,Jeg bliver klogere med Pipes 😍! Hent det her:
+Enter,Gå ind
+SelectChapter,Vælg Kapitel
+FTUE_Chapters,Du kan skifte mellem kapitler her!
+LevelsXY,Niveau 1-20
+Buy,Køb
+Refill,Genopfyld
+Get3Hints,Få 3 Tips!
+Get3IMs,Få 3 uendelige bevægelser!
+GetFullHearts,Genopfyld dine hjerte til 5!
+MoreOffers,Flere tilbud!
+LockersExplain,Låst op ved niveau 2
+Rating,Pipes er udviklede af et hold af 2 passionerede udviklere! Finpuds arbejdet der var gjort her, ved at give vores spil en bedømmelse. Tak! <3
+FTUE_Rotate2,Klik for at rotere!
+FTUE_AllPipes2,Brug alle rørerne!
+FTUE_WaterToPlants2,Du har begrænsede ryk!
+FTUE_Undo2,Tryk for at omgør!
+FTUE_Hint2,Tryk for at bruge et tip!
+FTUE_IM2,Tryk for at bruge et uendeligt ryk!
+FTUE_Card2,Kort samlet!
+FTUE_Collection1_2,Klik for at se samlingen!
+FTUE_Store2,Find flere i butikken!
+FTUE_Collection2_2,Tryk på kortene for at se dem!
+FTUE_Quests2,Klar opgaverne og få beløninger!
+FTUE_Quest24_2,Ny opgave hver 24. time!
+FTUE_Chapters_2,Klik for at vælge et kapitel!
+ChooseTwoGifts,Vælg 2 gaver!
+TwoMoreGifts,2 gaver mere!
+OutOfHearts,Ikke flere hjerter!
+TimeToNextHeart,Tid til næste hjerte:
+RefillHearts,Genopfyld hjerter
+RateUs,Bedøm os
+LoadCloudData,Læs sidst gemte niveau?
+Retry,Prøv igen

@@ -1,0 +1,185 @@
+﻿ConsentTitle,Şartlarımızı güncelledik
+ConsentMainText,Oynamaya devam etmek için Kullanım Şartlarımızı kabul ettiğinizi onaylamanız ve Gizlilik Politikamızı okumanız gerekir.
+ConsentToS,Kullanım Şartları
+ConsentPP,Gizlilik Politikası
+ConsentTitleYes,Daha iyi reklamlar göreceksiniz
+ConsentTextYes,Harika! Reklamlarımızı ilgi alanlarınıza uygun ve alakalı bulacağınızı umuyoruz. Fikrinizi değiştirirseniz, cihazınızda Ayarlar Google/Reklamlar altında Reklam Kişiselleştirme'yi devre dışı bırakmayı etkinleştirerek bu izni geri alabilir ve rastgele reklamlar almaya başlayabilirsiniz.
+ConsentTitleNo,Rastgele reklamlar göreceksiniz
+ConsentTextNo,Bu uygulamada kişiselleştirilmiş reklamlar için verilerinizi toplamayacağız. Yine de, düzenlenmiş reklamları size farklı bir uygulamada sunmamız için bize yetki verebilirsiniz. Bu durumda, verilerinizi diğer uygulamada toplayacağız ve size orada kişiselleştirilmiş bir reklam deneyimi sunacağız.
+Close,KAPAT
+Reject,Reddet
+Accept,KABUL ET
+Continue,Devam Et
+Notif0Title,Zamanı...
+Notif0Text,Boruları Bağla!
+Notif1Title,Beynin beni özler!
+Notif1Text,Kalplerini tekrar doldur ve oyna!
+Notif2Title,Zihinsel becerilerini geliştir!
+Notif2Text,Borulara meydan okumaya hazır mısın?
+Notif3Title,Yeterince zeki misin?
+Notif3Text,En zor seviyeleri haydi bitir bakalım!
+USEAST,ABD Doğu
+CANADA,Kanada
+MEXICO,Meksika
+BRAZIL,Brezilya
+UK,Birleşik Krallık
+GERMANY,Almanya
+FRANCE,Fransa
+SPAIN,İspanya
+ITALY,İtalya
+GREECE,Yunanistan
+TURKEY,Türkiye
+EGYPT,Mısır
+SAUDI,Suudi Arabistan
+KENYA,Kenya
+IRAN,İran
+INDIA,Hindistan
+THAILAND,Tayland
+SINGAPORE,Singapur
+AUSTRALIA,Avustralya
+NEWZEALAND,Yeni Zelanda
+TAIWAN,Tayvan
+CHINA,Çin
+KOREA,Kore
+JAPAN,Japonya
+RUSSIA,Rusya
+USWEST,ABD Batı
+DailyQuests,Günlük Maceralar
+Reward,Ödül
+Coins,12 Para
+InfiniteHearts,12 Saat Sonsuz Kalp
+InfiniteMoves,12 Sonsuz Hareket
+Hints,12 İpucu
+Easy,Kolay
+Medium,Orta
+Hard,Zor
+Claimed,Talep edildi!
+Date,26 Mart Cuma
+Saturday,Cumartesi
+Sunday,Pazar
+Monday,Pazartesi
+Tuesday,Salı
+Wednesday,Çarşamba
+Thursday,Perşembe
+Friday,Cuma
+January,Ocak
+February,Şubat
+March,Mart
+April,Nisan
+May,Mayıs
+June,Haziran
+July,Temmuz
+August,Ağustos
+September,Eylül
+October,Ekim
+November,Kasım
+December,Aralık
+Q_RotateTiles,100 karo döndür
+Q_FinishLevels,100 seviye kazan
+Q_EarnCoins,100 Para Kazan
+Q_EarnInfiniteHearts,100 dakika Sonsuz Kalp kazan
+Q_EarnHints,100 İpucu kazan
+Q_EarnInfiniteMove,100 Sonsuz Hareket kazan
+Q_WinLevelsContinuously,Kaybetmeden 100 seviye kazan
+Q_EarnCards,Koleksiyonda 100 kart kazan
+Q_EarnStars,100 Yıldız Kazan
+Q_UsePowerUps,100 İpucu veya Sonsuz Hareket Kullan
+Q_WinWithoutUndo,Geri Al butonunu kullanmadan 100 Seviye kazan
+Q_FillWells,100 Kuyu Doldur
+Q_GrowPlants,100 Bitki Yetiştir
+Q_WinWith3Stars,3 Yıldızla 100 Seviye Kazan
+Q_FillPipes,100 Boru Doldur
+Q_OpenChests,100 Sandık Aç
+Q_OpenStarChest,100 Yıldız Sandığı Aç
+Q_OpenLevelChest,100 Seviye Sandığı Aç
+Q_ReachSpecificLevel,100. seviyeye ulaş
+Q_PlayLevelsForSomeSeconds,Toplam 100 dakika seviyeleri oyna
+Q_EarnScore,Puanlarınla toplam 100 kazan
+Q_PlayLevelsForSomeSecondsContinuously,Oyunu kapatmadan toplam 100 dakika seviyeleri oyna
+TapOnAllShapes,Tüm şekillere tıkla!
+Awesome,Harika!
+Claim,Talep Et
+Collection,Koleksiyon
+FinishLevelX,Seviye 12'yi bitir
+Settings,Ayarlar
+Sounds,Sesler
+Music,Müzik
+Vibration,Titreşim
+Achievements,Başarılar
+Full,Tam
+Store,Mağaza
+NoAds,Oyundan reklamları kaldırmak için 12$ öde
+RestorePurchases,Satın Alımları Geri Yükle
+XHours,12 Saat
+Beginner,Başlangıç Paketi
+Super,Süper Paket
+Mega,Mega Paket
+Giant,Dev Paket
+Champion,Şampiyon Paketi
+Legendary,Efsanevi Paket
+Sale,İndirim
+MostPopular,En Popüler
+BestValue,En İyi Değer
+LevelX,Seviye 12
+Share,Paylaş
+OutOfMoves,Hareket Dışı
+GetXMoves,Devam etmek için 5 Hareket al
+VideoAd,Video
+PlayOn,Oynamaya Devam Et
+LevelFailed,Seviye Başarısız!
+TryAgain,Tekrar Dene
+NoAdsTitle,REKLAMLAR
+NoAdsButton,REKLAMSIZ
+FTUE_Rotate,Döndürmek için borulara tıkla!
+FTUE_AllPipes,Tüm Boruları kullanmalısın!
+FTUE_WaterToPlants,Sahip olduğun hareketlerle tüm bitkileri sula!
+FTUE_Undo,Son hareketini her zaman geri alabilirsin!
+FTUE_Hint,Seviyenin bir kısmını çözmek için İpucu kullanabilirsin!
+FTUE_IM,Hareketlerini Sonsuz yapabilirsin!
+FTUE_Card,Bir Kart topladın!
+FTUE_Collection1,Kartlarını her zaman Koleksiyonunda görebilirsin!
+FTUE_Store,Mağazada daha fazlasını bulabilirsin!
+FTUE_Collection2,Koleksiyonuna hoş geldin! Görmek için kartlarından herhangi birine tıklayabilirsin!
+FTUE_Quests,Farklı maceraları tamamla ve çeşitli ödüller kazan!
+FTUE_Quest24,Yeni Maceralar her 24 saatte bir burada olacak!
+TapShowBoard,Panoyu görmek için buraya tıkla!
+TapToReturn,Geri dönmek için tıkla!
+TapToSkip,Atlamak için tıkla!
+AreYouSure,Emin misin?
+YouLoseHeart,1 Kalp kaybedeceksin!
+YouWontLoseHeart,Bir Kalp kaybetmeyeceksin!
+Quit,Çıkış
+ShareMessage,Borular ile daha akıllı oluyorum 😍! Şuradan yükle:
+Enter,Giriş
+SelectChapter,Bölüm Seç
+FTUE_Chapters,Burada bölümler arasında geçiş yapabilirsin!
+LevelsXY,Seviye 1-20
+Buy,Satın Al
+Refill,Yeniden doldur
+Get3Hints,3 İpucu Al!
+Get3IMs,3 Sonsuz Hareket Al!
+GetFullHearts,Kalplerini 5'e Yeniden Doldur!
+MoreOffers,Daha Fazla Teklif!
+LockersExplain,2 seviyede kilit açılır
+Rating,Borular, 2 tutkulu geliştiriciden oluşan bir ekip tarafından geliştirildi! Oyunumuzu değerlendirerek yapılan çalışmaları destekleyin. Teşekkürler! <3
+FTUE_Rotate2,Döndürmek için tıkla!
+FTUE_AllPipes2,Tüm Boruları Kullan!
+FTUE_WaterToPlants2,Sınırlı hareketlerin var!
+FTUE_Undo2,Geri almak için tıkla!
+FTUE_Hint2,Bir ipucu kullanmak için tıkla!
+FTUE_IM2,Sonsuz hareket kullanmak için tıkla!
+FTUE_Card2,Kart toplandı!
+FTUE_Collection1_2,Koleksiyonu görmek için tıkla!
+FTUE_Store2,Mağazada daha fazlası var!
+FTUE_Collection2_2,Onları görmek için kartlara tıkla!
+FTUE_Quests2,Maceraları tamamla ve ödüller kazan!
+FTUE_Quest24_2,Her 24 saatte bir yeni Maceralar!
+FTUE_Chapters_2,Bölüm seçmek için tıkla!
+ChooseTwoGifts,2 Hediye Seç!
+TwoMoreGifts,2 Hediye daha!
+OutOfHearts,Dermansız!
+TimeToNextHeart,Sonraki Kalp Zamanı:
+RefillHearts,Kalpleri Doldur
+RateUs,Bizi değerlendirin
+LoadCloudData,Son kaydedilmiş seviye yüklensin mi?
+Retry,Tekrar Deneyin

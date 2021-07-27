@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e20e989501fa14d55bf42e74f0dafcb9, type: 3}
+  m_Name: LevelShowParametersHex
+  m_EditorClassIdentifier: 
+  diffToNextTile: 0.85
+  tileScale: 0.5
+  destinationRingScaleMagnifier: 0.68
+  wellRingScaleMagnifier: 0.75
+  foamScaleMagnifier: 0.8
+  tileShowParams:
+  - mapSize: 3x4
+    leftMostPos: {x: -0.73, y: -0.425}
+  - mapSize: 3x9
+    leftMostPos: {x: -0.73, y: -1.7}
+  - mapSize: 5x10
+    leftMostPos: {x: -1.46, y: -2.125}
+  - mapSize: 5x9
+    leftMostPos: {x: -1.46, y: -1.7}
+  - mapSize: 5x13
+    leftMostPos: {x: -1.46, y: -2.55}
+  - mapSize: 5x11
+    leftMostPos: {x: -1.46, y: -2.125}
+  - mapSize: 4x16
+    leftMostPos: {x: -1.095, y: -2.975}
+  - mapSize: 6x15
+    leftMostPos: {x: -1.825, y: -2.55}
+  - mapSize: 6x7
+    leftMostPos: {x: -1.825, y: -1.275}
+  - mapSize: 4x10
+    leftMostPos: {x: -1.095, y: -2.125}
+  - mapSize: 5x12
+    leftMostPos: {x: -1.46, y: -2.125}
+  - mapSize: 6x13
+    leftMostPos: {x: -1.825, y: -2.55}
+  - mapSize: 6x12
+    leftMostPos: {x: -1.825, y: -2.125}
+  - mapSize: 6x14
+    leftMostPos: {x: -1.825, y: -2.55}
+  - mapSize: 6x17
+    leftMostPos: {x: -1.825, y: -3.4}
+  - mapSize: 5x16
+    leftMostPos: {x: -1.46, y: -2.975}
+  - mapSize: 4x11
+    leftMostPos: {x: -1.095, y: -2.125}

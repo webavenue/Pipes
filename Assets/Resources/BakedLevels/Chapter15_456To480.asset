@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52a42e6753cc45dba3fd8c84970fa00, type: 3}
+  m_Name: Chapter15_456To480
+  m_EditorClassIdentifier: 
+  generatorParametersID: 1
+  rangeFrom: 456
+  rangeTo: 480
+  data: d3110000db110000ea110000f5110000f81100000b120000131200001f12000022120000301200003b120000451200004d120000541200005f1200006b120000791200007f120000841200009012000099120000aa120000ad120000be120000c5120000
